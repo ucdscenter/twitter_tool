@@ -1,0 +1,555 @@
+{
+    "nodes": [
+        {
+            "graph_score": {
+                "handle": "onorPeaks",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 2,
+            "id": 2245899935,
+            "followers_count": 6545,
+            "retweet_count": 0,
+            "hashtags": [
+                "nevertrump",
+                "nevertrump"
+            ],
+            "text": [
+                "#nevertrump Trio of killers dress up corpse and go on joy ride: cops... https://t.co/fNGaAJchyo",
+                "#nevertrump Obama to Bypass Congress and Pretend to \u201cRatify\u201d UN Clima... https://t.co/q4fzjHRljL"
+            ],
+            "group": [
+                1
+            ],
+            "name": "onorPeaks",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "SallaSean",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 376162272,
+            "followers_count": 157,
+            "retweet_count": 0,
+            "hashtags": [
+                "trump"
+            ],
+            "text": [
+                "Scary how many people take this guy serious. I know the stereotype of stupid middle America but seriously... #trump https://t.co/mU6zYgcxF4"
+            ],
+            "group": [
+                1
+            ],
+            "name": "SallaSean",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "realDonaldTrump",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 25073877,
+            "followers_count": 11239682,
+            "retweet_count": 3490,
+            "hashtags": [
+                "MakeAmericaGreatAgain",
+                "ImWithYou"
+            ],
+            "text": [
+                "Mexico will pay for the wall - 100%!\n#MakeAmericaGreatAgain #ImWithYou\nhttps://t.co/pSFuPZz0xP"
+            ],
+            "group": [
+                1
+            ],
+            "name": "realDonaldTrump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "TimTrulock",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 11.785714285714286
+            },
+            "score": 1,
+            "id": 1180221823,
+            "followers_count": 123,
+            "retweet_count": 0,
+            "hashtags": [
+                "FreeMelissa"
+            ],
+            "text": [
+                "RT @immigrant4trump: Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa ht\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "TimTrulock",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "immigrant4trump",
+                "betweenness": 0.08333333333333333,
+                "degree": 0.3125,
+                "harmonic": 16.0
+            },
+            "score": 1,
+            "id": 3677742792,
+            "followers_count": 50126,
+            "retweet_count": 65,
+            "hashtags": [
+                "FreeMelissa"
+            ],
+            "text": [
+                "Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa https://t.co/LuLZajaWoF"
+            ],
+            "group": [
+                1
+            ],
+            "name": "immigrant4trump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "sweetatertot2",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 6.857142857142858
+            },
+            "score": 0,
+            "id": 762389795037294592,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "sweetatertot2",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "twitter",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 6.857142857142858
+            },
+            "score": 0,
+            "id": 783214,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "twitter",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Support",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 6.857142857142858
+            },
+            "score": 0,
+            "id": 17874544,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "Support",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ebonydreem",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 761397352582090752,
+            "followers_count": 47,
+            "retweet_count": 0,
+            "hashtags": [
+                "trumpaz",
+                "nevertrump",
+                "imwithher"
+            ],
+            "text": [
+                "RT @angelenoesther: Seems speech filled with lies, falsehoods, half-truths.   https://t.co/wAOJafHNds #trumpaz #nevertrump #imwithher"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ebonydreem",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "angelenoesther",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 742543092901765120,
+            "followers_count": 379,
+            "retweet_count": 17,
+            "hashtags": [
+                "trumpaz",
+                "nevertrump",
+                "imwithher"
+            ],
+            "text": [
+                "Seems speech filled with lies, falsehoods, half-truths.   https://t.co/wAOJafHNds #trumpaz #nevertrump #imwithher"
+            ],
+            "group": [
+                1
+            ],
+            "name": "angelenoesther",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "topiclyimnews",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 770815206947557376,
+            "followers_count": 10,
+            "retweet_count": 0,
+            "hashtags": [
+                "trump",
+                "immigration"
+            ],
+            "text": [
+                "Now tracking: 'Our last chance': #trump doubles-down on primary-season #immigration rhetoric in hardline speech https://t.co/pfTLJwtJOT"
+            ],
+            "group": [
+                1
+            ],
+            "name": "topiclyimnews",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Chancedgfe",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 11.785714285714286
+            },
+            "score": 1,
+            "id": 2756749971,
+            "followers_count": 187,
+            "retweet_count": 0,
+            "hashtags": [
+                "FreeMelissa"
+            ],
+            "text": [
+                "RT @immigrant4trump: Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa ht\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Chancedgfe",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bistrogal2",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 66228336,
+            "followers_count": 114,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "Let's trace her sub files of the emails &amp; maybe levels so deep w/ security pw that even the gov can't find them https://t.co/9pQ75bxZvV"
+            ],
+            "group": [
+                1
+            ],
+            "name": "bistrogal2",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "amrightnow",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 449110269,
+            "followers_count": 30231,
+            "retweet_count": 2,
+            "hashtags": [
+                "realdonaldtrump",
+                "military",
+                "army",
+                "navy",
+                "usmc",
+                "airforce",
+                "veterans",
+                "trump",
+                "trumptrain",
+                "trump2016"
+            ],
+            "text": [
+                "#realdonaldtrump No Trust Hillary #military #army #navy #usmc #airforce #veterans #trump #trumptrain #trump2016 https://t.co/4xU52fcuNk"
+            ],
+            "group": [
+                1
+            ],
+            "name": "amrightnow",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "puppymnkey",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 4917092018,
+            "followers_count": 15576,
+            "retweet_count": 0,
+            "hashtags": [
+                "trumpaz"
+            ],
+            "text": [
+                "#trumpaz was the worst speech of division I've ever heard  https://t.co/Tflvvld0aZ"
+            ],
+            "group": [
+                1
+            ],
+            "name": "puppymnkey",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bobcesca_go",
+                "betweenness": 0.0,
+                "degree": 0.0625,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 97106823,
+            "followers_count": 16939,
+            "retweet_count": 89,
+            "hashtags": [],
+            "text": [
+                "Trump is an embarrassment to civilization. A crackpot who exploited a broken party and a broken nominating process to threaten the world."
+            ],
+            "group": [
+                1
+            ],
+            "name": "bobcesca_go",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "BreakingBad263",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 351142250,
+            "followers_count": 1522,
+            "retweet_count": 0,
+            "hashtags": [
+                "trump",
+                "donaldtrump",
+                "Trump2016",
+                "trumptrain",
+                "trumparmy",
+                "pence",
+                "MikePence",
+                "pencetrump",
+                "TrumpForPresident"
+            ],
+            "text": [
+                "#trump #donaldtrump #Trump2016 #trumptrain #trumparmy #pence #MikePence #pencetrump #TrumpForPresident... https://t.co/p3MstprSZm"
+            ],
+            "group": [
+                1
+            ],
+            "name": "BreakingBad263",
+            "hgroup": []
+        }
+    ],
+    "links": [
+        {
+            "source": 376162272,
+            "target": 25073877,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 1180221823,
+            "target": 3677742792,
+            "value": 0.2
+        },
+        {
+            "source": 3677742792,
+            "target": 762389795037294592,
+            "value": 0.5
+        },
+        {
+            "source": 3677742792,
+            "target": 783214,
+            "value": 0.5
+        },
+        {
+            "source": 3677742792,
+            "target": 17874544,
+            "value": 0.5
+        },
+        {
+            "source": 761397352582090752,
+            "target": 742543092901765120,
+            "value": 0.2
+        },
+        {
+            "source": 2756749971,
+            "target": 3677742792,
+            "value": 0.2
+        },
+        {
+            "source": 66228336,
+            "target": 449110269,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 4917092018,
+            "target": 97106823,
+            "value": 0.06666666666666667
+        }
+    ],
+    "terms": [
+        {
+            "h": "nevertrump",
+            "score": 4
+        },
+        {
+            "h": "trump",
+            "score": 4
+        },
+        {
+            "h": "FreeMelissa",
+            "score": 4
+        },
+        {
+            "h": "trumpaz",
+            "score": 3
+        },
+        {
+            "h": "imwithher",
+            "score": 2
+        },
+        {
+            "h": "trumptrain",
+            "score": 2
+        },
+        {
+            "h": "MakeAmericaGreatAgain",
+            "score": 1
+        },
+        {
+            "h": "ImWithYou",
+            "score": 1
+        },
+        {
+            "h": "immigration",
+            "score": 1
+        },
+        {
+            "h": "realdonaldtrump",
+            "score": 1
+        },
+        {
+            "h": "military",
+            "score": 1
+        },
+        {
+            "h": "army",
+            "score": 1
+        },
+        {
+            "h": "navy",
+            "score": 1
+        },
+        {
+            "h": "usmc",
+            "score": 1
+        },
+        {
+            "h": "airforce",
+            "score": 1
+        },
+        {
+            "h": "veterans",
+            "score": 1
+        },
+        {
+            "h": "trump2016",
+            "score": 1
+        },
+        {
+            "h": "donaldtrump",
+            "score": 1
+        },
+        {
+            "h": "Trump2016",
+            "score": 1
+        },
+        {
+            "h": "trumparmy",
+            "score": 1
+        },
+        {
+            "h": "pence",
+            "score": 1
+        },
+        {
+            "h": "MikePence",
+            "score": 1
+        },
+        {
+            "h": "pencetrump",
+            "score": 1
+        },
+        {
+            "h": "TrumpForPresident",
+            "score": 1
+        }
+    ]
+}

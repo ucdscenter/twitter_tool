@@ -1,0 +1,2222 @@
+{
+    "nodes": [
+        {
+            "graph_score": {
+                "handle": "PeakOfTruth",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 3115898899,
+            "followers_count": 3988,
+            "retweet_count": 0,
+            "hashtags": [
+                "TrumpsMexicoTripSayings"
+            ],
+            "text": [
+                "RT @michelle4trump: #TrumpsMexicoTripSayings If Mexico can enforce their immigration laws, so can the United States. https://t.co/9OVbZtgWXX"
+            ],
+            "group": [
+                1
+            ],
+            "name": "PeakOfTruth",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "michelle4trump",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 3307277274,
+            "followers_count": 12606,
+            "retweet_count": 258,
+            "hashtags": [
+                "TrumpsMexicoTripSayings"
+            ],
+            "text": [
+                "#TrumpsMexicoTripSayings If Mexico can enforce their immigration laws, so can the United States. https://t.co/9OVbZtgWXX"
+            ],
+            "group": [
+                1
+            ],
+            "name": "michelle4trump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "onorPeaks",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 2,
+            "id": 2245899935,
+            "followers_count": 6545,
+            "retweet_count": 0,
+            "hashtags": [
+                "nevertrump",
+                "nevertrump"
+            ],
+            "text": [
+                "#nevertrump Trio of killers dress up corpse and go on joy ride: cops... https://t.co/fNGaAJchyo",
+                "#nevertrump Obama to Bypass Congress and Pretend to \u201cRatify\u201d UN Clima... https://t.co/q4fzjHRljL"
+            ],
+            "group": [
+                1
+            ],
+            "name": "onorPeaks",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "2016_movement",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 2.0
+            },
+            "score": 1,
+            "id": 732346481173094401,
+            "followers_count": 3,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "Ms. @HillaryClinton  show trump what a true U.S.Prez looks like.Go to Europe&amp;assure them as Obama did.u will b loved https://t.co/Y8X8DGeWNf"
+            ],
+            "group": [
+                1
+            ],
+            "name": "2016_movement",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "HillaryClinton",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 1339835893,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "HillaryClinton",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "NPJules",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 18.090062111801245
+            },
+            "score": 1,
+            "id": 28473012,
+            "followers_count": 5022,
+            "retweet_count": 0,
+            "hashtags": [
+                "TrumpEnMexico",
+                "MakeAmericaGreatAgain",
+                "americansfirst"
+            ],
+            "text": [
+                "RT @brothersnarmsUS: #TrumpEnMexico he is respected and he will #MakeAmericaGreatAgain #americansfirst @immigrant4trump @realDonaldTrump ht\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "NPJules",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "brothersnarmsUS",
+                "betweenness": 0.017851346965271016,
+                "degree": 0.0379746835443038,
+                "harmonic": 21.71708683473389
+            },
+            "score": 1,
+            "id": 4249353974,
+            "followers_count": 7661,
+            "retweet_count": 15,
+            "hashtags": [
+                "TrumpEnMexico",
+                "MakeAmericaGreatAgain",
+                "americansfirst"
+            ],
+            "text": [
+                "#TrumpEnMexico he is respected and he will #MakeAmericaGreatAgain #americansfirst @immigrant4trump @realDonaldTrump https://t.co/LqPSBi1hW6"
+            ],
+            "group": [
+                1
+            ],
+            "name": "brothersnarmsUS",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "immigrant4trump",
+                "betweenness": 0.02044790652385589,
+                "degree": 0.08860759493670886,
+                "harmonic": 28.87587535014006
+            },
+            "score": 2,
+            "id": 3677742792,
+            "followers_count": 50126,
+            "retweet_count": 660,
+            "hashtags": [
+                "FreeMelissa",
+                "LatinosForTrump"
+            ],
+            "text": [
+                "Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa https://t.co/LuLZajaWoF",
+                "Watch Marco @MarcoGutierrez Co-Founder #LatinosForTrump On CNBC, the wall is 'more than physical' https://t.co/UHCvbgH8In"
+            ],
+            "group": [
+                1
+            ],
+            "name": "immigrant4trump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "realDonaldTrump",
+                "betweenness": 0.017202207075624795,
+                "degree": 0.05063291139240506,
+                "harmonic": 30.78571428571428
+            },
+            "score": 1,
+            "id": 25073877,
+            "followers_count": 11239682,
+            "retweet_count": 3490,
+            "hashtags": [
+                "MakeAmericaGreatAgain",
+                "ImWithYou"
+            ],
+            "text": [
+                "Mexico will pay for the wall - 100%!\n#MakeAmericaGreatAgain #ImWithYou\nhttps://t.co/pSFuPZz0xP"
+            ],
+            "group": [
+                1
+            ],
+            "name": "realDonaldTrump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "SallaSean",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 29.42797579497256
+            },
+            "score": 1,
+            "id": 376162272,
+            "followers_count": 157,
+            "retweet_count": 0,
+            "hashtags": [
+                "trump"
+            ],
+            "text": [
+                "Scary how many people take this guy serious. I know the stereotype of stupid middle America but seriously... #trump https://t.co/mU6zYgcxF4"
+            ],
+            "group": [
+                1
+            ],
+            "name": "SallaSean",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "TimTrulock",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 20.677306010123353
+            },
+            "score": 1,
+            "id": 1180221823,
+            "followers_count": 123,
+            "retweet_count": 0,
+            "hashtags": [
+                "FreeMelissa"
+            ],
+            "text": [
+                "RT @immigrant4trump: Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa ht\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "TimTrulock",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "sweetatertot2",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 13.333103067145622
+            },
+            "score": 0,
+            "id": 762389795037294592,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "sweetatertot2",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "twitter",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 13.333103067145622
+            },
+            "score": 0,
+            "id": 783214,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "twitter",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Support",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 13.333103067145622
+            },
+            "score": 0,
+            "id": 17874544,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "Support",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "nunnp1",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1528566337,
+            "followers_count": 1971,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @movement_trump: Retweet if you'd rather have the Trump family in The White House rather than the Clintons! \ud83c\uddfa\ud83c\uddf8 https://t.co/VJOkkhH5ub"
+            ],
+            "group": [
+                1
+            ],
+            "name": "nunnp1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "movement_trump",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 726857588168638467,
+            "followers_count": 25368,
+            "retweet_count": 1036,
+            "hashtags": [],
+            "text": [
+                "Retweet if you'd rather have the Trump family in The White House rather than the Clintons! \ud83c\uddfa\ud83c\uddf8 https://t.co/VJOkkhH5ub"
+            ],
+            "group": [
+                1
+            ],
+            "name": "movement_trump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "brandonlancast2",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 470268558,
+            "followers_count": 1126,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "How much will trump charge for his cable news show after Hillary stomps him into the ground...Palin was dropped within the year"
+            ],
+            "group": [
+                1
+            ],
+            "name": "brandonlancast2",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ebonydreem",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 761397352582090752,
+            "followers_count": 47,
+            "retweet_count": 0,
+            "hashtags": [
+                "trumpaz",
+                "nevertrump",
+                "imwithher"
+            ],
+            "text": [
+                "RT @angelenoesther: Seems speech filled with lies, falsehoods, half-truths.   https://t.co/wAOJafHNds #trumpaz #nevertrump #imwithher"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ebonydreem",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "angelenoesther",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 742543092901765120,
+            "followers_count": 379,
+            "retweet_count": 17,
+            "hashtags": [
+                "trumpaz",
+                "nevertrump",
+                "imwithher"
+            ],
+            "text": [
+                "Seems speech filled with lies, falsehoods, half-truths.   https://t.co/wAOJafHNds #trumpaz #nevertrump #imwithher"
+            ],
+            "group": [
+                1
+            ],
+            "name": "angelenoesther",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Variquisol",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 6.428571428571429
+            },
+            "score": 1,
+            "id": 928884385,
+            "followers_count": 2702,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @mukasweb: \u00bb@RedpresNoticias: trump tras reunirse con Pe\u00f1a Nieto: \u201cM\u00e9xico pagar\u00e1 por el muro, aunque a\u00fan no lo saben\u201dhtt... https://t.co\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Variquisol",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mukasweb",
+                "betweenness": 0.0003245699448231094,
+                "degree": 0.02531645569620253,
+                "harmonic": 7.0
+            },
+            "score": 1,
+            "id": 145016073,
+            "followers_count": 7310,
+            "retweet_count": 1,
+            "hashtags": [],
+            "text": [
+                "\u00bb@RedpresNoticias: trump tras reunirse con Pe\u00f1a Nieto: \u201cM\u00e9xico pagar\u00e1 por el muro, aunque a\u00fan no lo saben\u201dhtt... https://t.co/70K19P4l9T"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mukasweb",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "RedpresNoticias",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 3.428571428571429
+            },
+            "score": 0,
+            "id": 145013442,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "RedpresNoticias",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "topiclyimnews",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 770815206947557376,
+            "followers_count": 10,
+            "retweet_count": 0,
+            "hashtags": [
+                "trump",
+                "immigration"
+            ],
+            "text": [
+                "Now tracking: 'Our last chance': #trump doubles-down on primary-season #immigration rhetoric in hardline speech https://t.co/pfTLJwtJOT"
+            ],
+            "group": [
+                1
+            ],
+            "name": "topiclyimnews",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "francesmervyl",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 2847946344,
+            "followers_count": 186,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "@fubillclinton ;) or ;;;;;;))))))))"
+            ],
+            "group": [
+                1
+            ],
+            "name": "francesmervyl",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "fubillclinton",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 0,
+            "id": 480908393,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "fubillclinton",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "LUVONTHEBRAINS",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 610073516,
+            "followers_count": 2914,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @seangrandillo: fuck trump"
+            ],
+            "group": [
+                1
+            ],
+            "name": "LUVONTHEBRAINS",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "seangrandillo",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 52195306,
+            "followers_count": 45713,
+            "retweet_count": 418,
+            "hashtags": [],
+            "text": [
+                "fuck trump"
+            ],
+            "group": [
+                1
+            ],
+            "name": "seangrandillo",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Chancedgfe",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 20.677306010123353
+            },
+            "score": 1,
+            "id": 2756749971,
+            "followers_count": 187,
+            "retweet_count": 0,
+            "hashtags": [
+                "FreeMelissa"
+            ],
+            "text": [
+                "RT @immigrant4trump: Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa ht\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Chancedgfe",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "e_copy",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 233752388,
+            "followers_count": 367,
+            "retweet_count": 0,
+            "hashtags": [
+                "trumpenmexico"
+            ],
+            "text": [
+                "#trumpenmexico Donald Trump: \u201cM\u00e9xico no lo sabe a\u00fan, pero pagar\u00e1 el muro al 100%\u201d https://t.co/y3JGFH4Web https://t.co/WKxWSlfnIA"
+            ],
+            "group": [
+                1
+            ],
+            "name": "e_copy",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mccraw_birkie5",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 14.358976376071547
+            },
+            "score": 1,
+            "id": 2307464682,
+            "followers_count": 609,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @bryancrabtree: poll please retweet:  Did @realdonaldtrump speech"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mccraw_birkie5",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bryancrabtree",
+                "betweenness": 0.004219409282700422,
+                "degree": 0.02531645569620253,
+                "harmonic": 16.362745098039216
+            },
+            "score": 1,
+            "id": 16916866,
+            "followers_count": 38968,
+            "retweet_count": 56,
+            "hashtags": [],
+            "text": [
+                "poll please retweet:  Did @realdonaldtrump speech"
+            ],
+            "group": [
+                1
+            ],
+            "name": "bryancrabtree",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bbrriinnaa_",
+                "betweenness": 0.0,
+                "degree": 0.02531645569620253,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 1014607448,
+            "followers_count": 353,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @masonzmay: @bbrriinnaa_ didn't even get a chance to say fuck trump \ud83d\ude14"
+            ],
+            "group": [
+                1
+            ],
+            "name": "bbrriinnaa_",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "masonzmay",
+                "betweenness": 0.0,
+                "degree": 0.02531645569620253,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 2869090896,
+            "followers_count": 491,
+            "retweet_count": 1,
+            "hashtags": [],
+            "text": [
+                "@bbrriinnaa_ didn't even get a chance to say fuck trump \ud83d\ude14"
+            ],
+            "group": [
+                1
+            ],
+            "name": "masonzmay",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "othesharkslayer",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 350068448,
+            "followers_count": 369,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @PapiCeJay: All these trump supporters in Phoenix sound so stupid with that immigration shit"
+            ],
+            "group": [
+                1
+            ],
+            "name": "othesharkslayer",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "PapiCeJay",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 937883882,
+            "followers_count": 484,
+            "retweet_count": 2,
+            "hashtags": [],
+            "text": [
+                "All these trump supporters in Phoenix sound so stupid with that immigration shit"
+            ],
+            "group": [
+                1
+            ],
+            "name": "PapiCeJay",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "497acc4ae13a466",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 2948182551,
+            "followers_count": 141,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "@AnnCoulter trump is good hearted,unlike cold hillary"
+            ],
+            "group": [
+                1
+            ],
+            "name": "497acc4ae13a466",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "AnnCoulter",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 0,
+            "id": 196168350,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "AnnCoulter",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "puppymnkey",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 4917092018,
+            "followers_count": 15576,
+            "retweet_count": 0,
+            "hashtags": [
+                "trumpaz"
+            ],
+            "text": [
+                "#trumpaz was the worst speech of division I've ever heard  https://t.co/Tflvvld0aZ"
+            ],
+            "group": [
+                1
+            ],
+            "name": "puppymnkey",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bobcesca_go",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 97106823,
+            "followers_count": 16939,
+            "retweet_count": 89,
+            "hashtags": [],
+            "text": [
+                "Trump is an embarrassment to civilization. A crackpot who exploited a broken party and a broken nominating process to threaten the world."
+            ],
+            "group": [
+                1
+            ],
+            "name": "bobcesca_go",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "BreakingBad263",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 351142250,
+            "followers_count": 1522,
+            "retweet_count": 0,
+            "hashtags": [
+                "trump",
+                "donaldtrump",
+                "Trump2016",
+                "trumptrain",
+                "trumparmy",
+                "pence",
+                "MikePence",
+                "pencetrump",
+                "TrumpForPresident"
+            ],
+            "text": [
+                "#trump #donaldtrump #Trump2016 #trumptrain #trumparmy #pence #MikePence #pencetrump #TrumpForPresident... https://t.co/p3MstprSZm"
+            ],
+            "group": [
+                1
+            ],
+            "name": "BreakingBad263",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "outintheboonie1",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1225439204,
+            "followers_count": 4230,
+            "retweet_count": 0,
+            "hashtags": [
+                "realdonaldtrump",
+                "greta",
+                "veterans",
+                "foxandfriends"
+            ],
+            "text": [
+                "RT @amrightnow: #realdonaldtrump California Turns 2 China For New Bay Bridge https://t.co/8ZVjKc11Ef #greta #veterans #foxandfriends https:\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "outintheboonie1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "amrightnow",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 449110269,
+            "followers_count": 30231,
+            "retweet_count": 2,
+            "hashtags": [
+                "realdonaldtrump",
+                "greta",
+                "veterans",
+                "foxandfriends"
+            ],
+            "text": [
+                "#realdonaldtrump California Turns 2 China For New Bay Bridge https://t.co/8ZVjKc11Ef #greta #veterans #foxandfriends https://t.co/XVjPIduW57"
+            ],
+            "group": [
+                1
+            ],
+            "name": "amrightnow",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "realDonaldTrmmp",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 20.677306010123353
+            },
+            "score": 1,
+            "id": 747807029637619712,
+            "followers_count": 219,
+            "retweet_count": 0,
+            "hashtags": [
+                "LatinosForTrump"
+            ],
+            "text": [
+                "RT @immigrant4trump: Watch Marco @MarcoGutierrez Co-Founder #LatinosForTrump On CNBC, the wall is 'more than physical' https://t.co/UHCvbgH\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "realDonaldTrmmp",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "NOWAYTRUMP",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 713185487331192832,
+            "followers_count": 392,
+            "retweet_count": 0,
+            "hashtags": [
+                "Nevertrump"
+            ],
+            "text": [
+                "@gov  Did you ever test the hashtag #Nevertrump an see that it won't auto complete ?"
+            ],
+            "group": [
+                1
+            ],
+            "name": "NOWAYTRUMP",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "gov",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 0,
+            "id": 222953824,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "gov",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "whohatedTrump",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 14.358976376071547
+            },
+            "score": 1,
+            "id": 730912979747627009,
+            "followers_count": 57,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @donaldtrump_wa: Which part of the pledge do @realDonaldTrump supporters think Trump has ALLEGIANCE to? https://t.co/RFe6aDClHP"
+            ],
+            "group": [
+                1
+            ],
+            "name": "whohatedTrump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "donaldtrump_wa",
+                "betweenness": 0.004219409282700422,
+                "degree": 0.02531645569620253,
+                "harmonic": 16.362745098039216
+            },
+            "score": 1,
+            "id": 728886695458803712,
+            "followers_count": 484,
+            "retweet_count": 3,
+            "hashtags": [],
+            "text": [
+                "Which part of the pledge do @realDonaldTrump supporters think Trump has ALLEGIANCE to? https://t.co/RFe6aDClHP"
+            ],
+            "group": [
+                1
+            ],
+            "name": "donaldtrump_wa",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "hrtablaze",
+                "betweenness": 0.0,
+                "degree": 0.02531645569620253,
+                "harmonic": 13.373015873015872
+            },
+            "score": 1,
+            "id": 896258742,
+            "followers_count": 9083,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @Maria4America: @tonerockpr @latinaafortrump @hrtablaze You're accusing Trump of pandering when it's his lack of pandering that has ever\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "hrtablaze",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Maria4America",
+                "betweenness": 0.0029211295034079843,
+                "degree": 0.06329113924050633,
+                "harmonic": 23.428571428571427
+            },
+            "score": 1,
+            "id": 3492855441,
+            "followers_count": 3945,
+            "retweet_count": 1,
+            "hashtags": [],
+            "text": [
+                "@tonerockpr @latinaafortrump @hrtablaze You're accusing Trump of pandering when it's his lack of pandering that has everyone in an uproar"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Maria4America",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "tonerockpr",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 19.583333333333332
+            },
+            "score": 0,
+            "id": 113521268,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "tonerockpr",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "latinaafortrump",
+                "betweenness": 0.0012982797792924375,
+                "degree": 0.02531645569620253,
+                "harmonic": 11.523809523809524
+            },
+            "score": 1,
+            "id": 742749379623165955,
+            "followers_count": 12896,
+            "retweet_count": 74,
+            "hashtags": [
+                "LatinosForTrump",
+                "TacoTrucksOnEveryCorner"
+            ],
+            "text": [
+                "Here's a FREE taco for liberals scared of #LatinosForTrump \ud83c\udf2e \n\n\ud83d\ude02\ud83d\ude02\n\nLegal #TacoTrucksOnEveryCorner"
+            ],
+            "group": [
+                1
+            ],
+            "name": "latinaafortrump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "chickitamami",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 721525815054217216,
+            "followers_count": 133,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "@WutRthoze trump can't get me now \ud83d\ude08"
+            ],
+            "group": [
+                1
+            ],
+            "name": "chickitamami",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "WutRthoze",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 0,
+            "id": 754513598,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "WutRthoze",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "sicksadwaste66",
+                "betweenness": 0.0006491398896462187,
+                "degree": 0.02531645569620253,
+                "harmonic": 18.764705882352942
+            },
+            "score": 1,
+            "id": 615119313,
+            "followers_count": 10,
+            "retweet_count": 0,
+            "hashtags": [
+                "ImWithTacos"
+            ],
+            "text": [
+                "RT @trumpUni: This Trump surrogate just won the election for Hillary. #ImWithTacos https://t.co/tD9bmQ3ySO"
+            ],
+            "group": [
+                1
+            ],
+            "name": "sicksadwaste66",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "trumpUni",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 4.702205882352941
+            },
+            "score": 0,
+            "id": 739050905413111808,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "trumpUni",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "allinwithchris",
+                "betweenness": 0.0006491398896462187,
+                "degree": 0.02531645569620253,
+                "harmonic": 18.764705882352942
+            },
+            "score": 1,
+            "id": 1286312880,
+            "followers_count": 75241,
+            "retweet_count": 869,
+            "hashtags": [
+                "inners"
+            ],
+            "text": [
+                "Latinos for Trump founder @MarcoGutierrez: \"you're gonna have taco trucks on every corner\" #inners https://t.co/Vifo3q7Ah8"
+            ],
+            "group": [
+                1
+            ],
+            "name": "allinwithchris",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "MarcoGutierrez",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 4.702205882352941
+            },
+            "score": 0,
+            "id": 18635250,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "MarcoGutierrez",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ElleohEllle",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 36505147,
+            "followers_count": 174,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "We're about to have Donald trump as our president, and you're heated over a dude not standing for the national anthem \ud83e\udd14"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ElleohEllle",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "_patriot1",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 13.373015873015872
+            },
+            "score": 1,
+            "id": 754150491425079296,
+            "followers_count": 291,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @Maria4America: @tonerockpr @latinaafortrump @hrtablaze You're accusing Trump of pandering when it's his lack of pandering that has ever\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "_patriot1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "11073_ayn",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 2995282694,
+            "followers_count": 361,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "@kiistrumpet \u305d\u305d\uff01"
+            ],
+            "group": [
+                1
+            ],
+            "name": "11073_ayn",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "kiistrumpet",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 10.0
+            },
+            "score": 0,
+            "id": 765525250679246848,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "kiistrumpet",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "orellana__iris",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 3859499104,
+            "followers_count": 124,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @basedmz: if this video thread doesn't make you realize how unfit trump is for presidency, idk what will..."
+            ],
+            "group": [
+                1
+            ],
+            "name": "orellana__iris",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "basedmz",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 3339395085,
+            "followers_count": 11642,
+            "retweet_count": 50,
+            "hashtags": [],
+            "text": [
+                "if this video thread doesn't make you realize how unfit trump is for presidency, idk what will..."
+            ],
+            "group": [
+                1
+            ],
+            "name": "basedmz",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bobsmith2111",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 9.90079365079365
+            },
+            "score": 1,
+            "id": 713562122915946496,
+            "followers_count": 115,
+            "retweet_count": 0,
+            "hashtags": [
+                "LatinosForTrump",
+                "TacoTrucksOnEveryCorner"
+            ],
+            "text": [
+                "RT @latinaafortrump: Here's a FREE taco for liberals scared of #LatinosForTrump \ud83c\udf2e \n\n\ud83d\ude02\ud83d\ude02\n\nLegal #TacoTrucksOnEveryCorner"
+            ],
+            "group": [
+                1
+            ],
+            "name": "bobsmith2111",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "jesuisleprince",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 23902902,
+            "followers_count": 165,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "RT @reginamilfs: i'm still laughing about madonna bashing trump and his sons"
+            ],
+            "group": [
+                1
+            ],
+            "name": "jesuisleprince",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "reginamilfs",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1266809419,
+            "followers_count": 575,
+            "retweet_count": 1,
+            "hashtags": [],
+            "text": [
+                "i'm still laughing about madonna bashing trump and his sons"
+            ],
+            "group": [
+                1
+            ],
+            "name": "reginamilfs",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "NYCTheMiC",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 39704829,
+            "followers_count": 8479,
+            "retweet_count": 0,
+            "hashtags": [
+                "KapSoBlack"
+            ],
+            "text": [
+                "RT @Writeintrump: #KapSoBlack that he even refuses to pick the cotton out of his bottle of aspirin."
+            ],
+            "group": [
+                1
+            ],
+            "name": "NYCTheMiC",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Writeintrump",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 538547125,
+            "followers_count": 50241,
+            "retweet_count": 60,
+            "hashtags": [
+                "KapSoBlack"
+            ],
+            "text": [
+                "#KapSoBlack that he even refuses to pick the cotton out of his bottle of aspirin."
+            ],
+            "group": [
+                1
+            ],
+            "name": "Writeintrump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Jimmy3004",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 6.428571428571429
+            },
+            "score": 1,
+            "id": 121962950,
+            "followers_count": 128,
+            "retweet_count": 0,
+            "hashtags": [
+                "Informepresidencial"
+            ],
+            "text": [
+                "RT @MariluHerrera: No tengo el est\u00f3mago para ver el #Informepresidencial de @epn, convertido en taller de  burlesque.... sigo de la trumpad\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Jimmy3004",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "MariluHerrera",
+                "betweenness": 0.0003245699448231094,
+                "degree": 0.02531645569620253,
+                "harmonic": 7.0
+            },
+            "score": 1,
+            "id": 27758688,
+            "followers_count": 210011,
+            "retweet_count": 49,
+            "hashtags": [
+                "Informepresidencial"
+            ],
+            "text": [
+                "No tengo el est\u00f3mago para ver el #Informepresidencial de @epn, convertido en taller de  burlesque.... sigo de la trumpada."
+            ],
+            "group": [
+                1
+            ],
+            "name": "MariluHerrera",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "EPN",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 3.428571428571429
+            },
+            "score": 0,
+            "id": 2897441,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "EPN",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "tweets_quotable",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 735990687921930240,
+            "followers_count": 93,
+            "retweet_count": 0,
+            "hashtags": [
+                "blm",
+                "trump2016",
+                "trumprally",
+                "sjws",
+                "socialjustice",
+                "freemilo"
+            ],
+            "text": [
+                "CJ Pearson on Colin Kaepernick https://t.co/nh8noxtxzz #blm #trump2016 #trumprally #sjws #socialjustice #freemilo"
+            ],
+            "group": [
+                1
+            ],
+            "name": "tweets_quotable",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "lovefaktiskt",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 2727579170,
+            "followers_count": 65,
+            "retweet_count": 0,
+            "hashtags": [
+                "rejectedtrumpcampaignslogan"
+            ],
+            "text": [
+                "\"Donald Trump fires the best people\"\n\n#rejectedtrumpcampaignslogan"
+            ],
+            "group": [
+                1
+            ],
+            "name": "lovefaktiskt",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "paparcura",
+                "betweenness": 0.0,
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1327639712,
+            "followers_count": 70883,
+            "retweet_count": 0,
+            "hashtags": [
+                "Twitter",
+                "trump",
+                "Dumptrump",
+                "MAGA",
+                "DUMPTOO",
+                "TwiTart"
+            ],
+            "text": [
+                "\ud83d\ude02Oo\u0361o\u2022psss #Twitter look \ud83d\ude1c \ud83d\udca9 #trump \ud83d\ude02RT\ud83d\udd95#Dumptrump &amp; \ud83d\ude02Thank you\ud83d\ude02 #MAGA \ud83d\ude02#DUMPTOO\ud83d\udeb2#TwiTart\ud83d\ude02 https://t.co/fwVdn1Mdvk"
+            ],
+            "group": [
+                1
+            ],
+            "name": "paparcura",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "AnnaTink1",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 2.0
+            },
+            "score": 1,
+            "id": 330264927,
+            "followers_count": 210,
+            "retweet_count": 0,
+            "hashtags": [
+                "DeepBlueSea"
+            ],
+            "text": [
+                "Palace Cinema Felixstowe came up trumps again last night. Gave us access to marvellous @ntlive #DeepBlueSea with cheesy chips and tea!"
+            ],
+            "group": [
+                1
+            ],
+            "name": "AnnaTink1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ntlive",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 50009231,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "ntlive",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Davidhnaz",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 250162737,
+            "followers_count": 423,
+            "retweet_count": 0,
+            "hashtags": [
+                "HolyHell",
+                "Haiti"
+            ],
+            "text": [
+                "RT @nia4_trump: You know what's #HolyHell?\n#Haiti Earthquake\nAn entire Nation destroyed~220,000 dead\nThen BILLary stole the relief \ud83d\udcb0 https:\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Davidhnaz",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "nia4_trump",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 704041886089084928,
+            "followers_count": 5429,
+            "retweet_count": 160,
+            "hashtags": [
+                "HolyHell",
+                "Haiti"
+            ],
+            "text": [
+                "You know what's #HolyHell?\n#Haiti Earthquake\nAn entire Nation destroyed~220,000 dead\nThen BILLary stole the relief \ud83d\udcb0 https://t.co/lxDwydE2nD"
+            ],
+            "group": [
+                1
+            ],
+            "name": "nia4_trump",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "HunanofChina",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 744139547361976321,
+            "followers_count": 454,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "yes I already read the trump news!\nHow's going? https://t.co/cUl1cV9BgW"
+            ],
+            "group": [
+                1
+            ],
+            "name": "HunanofChina",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "disperano",
+                "betweenness": 0.0,
+                "degree": 0.012658227848101266,
+                "harmonic": 15.0
+            },
+            "score": 1,
+            "id": 507681690,
+            "followers_count": 8877,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                "Trump Campaign Reportedly Considering Funding the Wall With Seized Cartel... https://t.co/r58U2rxB8p"
+            ],
+            "group": [
+                1
+            ],
+            "name": "disperano",
+            "hgroup": []
+        }
+    ],
+    "links": [
+        {
+            "source": 3115898899,
+            "target": 3307277274,
+            "value": 0.2
+        },
+        {
+            "source": 732346481173094401,
+            "target": 1339835893,
+            "value": 0.5
+        },
+        {
+            "source": 28473012,
+            "target": 4249353974,
+            "value": 0.2
+        },
+        {
+            "source": 4249353974,
+            "target": 3677742792,
+            "value": 0.5
+        },
+        {
+            "source": 4249353974,
+            "target": 25073877,
+            "value": 0.5
+        },
+        {
+            "source": 376162272,
+            "target": 25073877,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 1180221823,
+            "target": 3677742792,
+            "value": 0.2
+        },
+        {
+            "source": 3677742792,
+            "target": 762389795037294592,
+            "value": 0.5
+        },
+        {
+            "source": 3677742792,
+            "target": 783214,
+            "value": 0.5
+        },
+        {
+            "source": 3677742792,
+            "target": 17874544,
+            "value": 0.5
+        },
+        {
+            "source": 1528566337,
+            "target": 726857588168638467,
+            "value": 0.2
+        },
+        {
+            "source": 761397352582090752,
+            "target": 742543092901765120,
+            "value": 0.2
+        },
+        {
+            "source": 928884385,
+            "target": 145016073,
+            "value": 0.2
+        },
+        {
+            "source": 145016073,
+            "target": 145013442,
+            "value": 0.5
+        },
+        {
+            "source": 2847946344,
+            "target": 480908393,
+            "value": 0.1
+        },
+        {
+            "source": 610073516,
+            "target": 52195306,
+            "value": 0.2
+        },
+        {
+            "source": 2756749971,
+            "target": 3677742792,
+            "value": 0.2
+        },
+        {
+            "source": 2307464682,
+            "target": 16916866,
+            "value": 0.2
+        },
+        {
+            "source": 16916866,
+            "target": 25073877,
+            "value": 0.5
+        },
+        {
+            "source": 1014607448,
+            "target": 2869090896,
+            "value": 0.2
+        },
+        {
+            "source": 2869090896,
+            "target": 1014607448,
+            "value": 0.1
+        },
+        {
+            "source": 350068448,
+            "target": 937883882,
+            "value": 0.2
+        },
+        {
+            "source": 2948182551,
+            "target": 196168350,
+            "value": 0.1
+        },
+        {
+            "source": 4917092018,
+            "target": 97106823,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 1225439204,
+            "target": 449110269,
+            "value": 0.2
+        },
+        {
+            "source": 747807029637619712,
+            "target": 3677742792,
+            "value": 0.2
+        },
+        {
+            "source": 713185487331192832,
+            "target": 222953824,
+            "value": 0.1
+        },
+        {
+            "source": 730912979747627009,
+            "target": 728886695458803712,
+            "value": 0.2
+        },
+        {
+            "source": 728886695458803712,
+            "target": 25073877,
+            "value": 0.5
+        },
+        {
+            "source": 896258742,
+            "target": 3492855441,
+            "value": 0.2
+        },
+        {
+            "source": 3492855441,
+            "target": 113521268,
+            "value": 0.1
+        },
+        {
+            "source": 3492855441,
+            "target": 742749379623165955,
+            "value": 0.5
+        },
+        {
+            "source": 3492855441,
+            "target": 896258742,
+            "value": 0.5
+        },
+        {
+            "source": 721525815054217216,
+            "target": 754513598,
+            "value": 0.1
+        },
+        {
+            "source": 615119313,
+            "target": 739050905413111808,
+            "value": 0.5
+        },
+        {
+            "source": 615119313,
+            "target": 1286312880,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 1286312880,
+            "target": 18635250,
+            "value": 0.5
+        },
+        {
+            "source": 754150491425079296,
+            "target": 3492855441,
+            "value": 0.2
+        },
+        {
+            "source": 2995282694,
+            "target": 765525250679246848,
+            "value": 0.1
+        },
+        {
+            "source": 3859499104,
+            "target": 3339395085,
+            "value": 0.2
+        },
+        {
+            "source": 713562122915946496,
+            "target": 742749379623165955,
+            "value": 0.2
+        },
+        {
+            "source": 23902902,
+            "target": 1266809419,
+            "value": 0.2
+        },
+        {
+            "source": 39704829,
+            "target": 538547125,
+            "value": 0.2
+        },
+        {
+            "source": 121962950,
+            "target": 27758688,
+            "value": 0.2
+        },
+        {
+            "source": 27758688,
+            "target": 2897441,
+            "value": 0.5
+        },
+        {
+            "source": 330264927,
+            "target": 50009231,
+            "value": 0.5
+        },
+        {
+            "source": 250162737,
+            "target": 704041886089084928,
+            "value": 0.2
+        },
+        {
+            "source": 744139547361976321,
+            "target": 507681690,
+            "value": 0.06666666666666667
+        }
+    ],
+    "terms": [
+        {
+            "h": "nevertrump",
+            "score": 4
+        },
+        {
+            "h": "trump",
+            "score": 4
+        },
+        {
+            "h": "FreeMelissa",
+            "score": 4
+        },
+        {
+            "h": "LatinosForTrump",
+            "score": 4
+        },
+        {
+            "h": "MakeAmericaGreatAgain",
+            "score": 3
+        },
+        {
+            "h": "trumpaz",
+            "score": 3
+        },
+        {
+            "h": "TrumpsMexicoTripSayings",
+            "score": 2
+        },
+        {
+            "h": "TrumpEnMexico",
+            "score": 2
+        },
+        {
+            "h": "americansfirst",
+            "score": 2
+        },
+        {
+            "h": "imwithher",
+            "score": 2
+        },
+        {
+            "h": "realdonaldtrump",
+            "score": 2
+        },
+        {
+            "h": "greta",
+            "score": 2
+        },
+        {
+            "h": "veterans",
+            "score": 2
+        },
+        {
+            "h": "foxandfriends",
+            "score": 2
+        },
+        {
+            "h": "TacoTrucksOnEveryCorner",
+            "score": 2
+        },
+        {
+            "h": "KapSoBlack",
+            "score": 2
+        },
+        {
+            "h": "Informepresidencial",
+            "score": 2
+        },
+        {
+            "h": "HolyHell",
+            "score": 2
+        },
+        {
+            "h": "Haiti",
+            "score": 2
+        },
+        {
+            "h": "ImWithYou",
+            "score": 1
+        },
+        {
+            "h": "immigration",
+            "score": 1
+        },
+        {
+            "h": "trumpenmexico",
+            "score": 1
+        },
+        {
+            "h": "donaldtrump",
+            "score": 1
+        },
+        {
+            "h": "Trump2016",
+            "score": 1
+        },
+        {
+            "h": "trumptrain",
+            "score": 1
+        },
+        {
+            "h": "trumparmy",
+            "score": 1
+        },
+        {
+            "h": "pence",
+            "score": 1
+        },
+        {
+            "h": "MikePence",
+            "score": 1
+        },
+        {
+            "h": "pencetrump",
+            "score": 1
+        },
+        {
+            "h": "TrumpForPresident",
+            "score": 1
+        },
+        {
+            "h": "Nevertrump",
+            "score": 1
+        },
+        {
+            "h": "ImWithTacos",
+            "score": 1
+        },
+        {
+            "h": "inners",
+            "score": 1
+        },
+        {
+            "h": "blm",
+            "score": 1
+        },
+        {
+            "h": "trump2016",
+            "score": 1
+        },
+        {
+            "h": "trumprally",
+            "score": 1
+        },
+        {
+            "h": "sjws",
+            "score": 1
+        },
+        {
+            "h": "socialjustice",
+            "score": 1
+        },
+        {
+            "h": "freemilo",
+            "score": 1
+        },
+        {
+            "h": "rejectedtrumpcampaignslogan",
+            "score": 1
+        },
+        {
+            "h": "Twitter",
+            "score": 1
+        },
+        {
+            "h": "Dumptrump",
+            "score": 1
+        },
+        {
+            "h": "MAGA",
+            "score": 1
+        },
+        {
+            "h": "DUMPTOO",
+            "score": 1
+        },
+        {
+            "h": "TwiTart",
+            "score": 1
+        },
+        {
+            "h": "DeepBlueSea",
+            "score": 1
+        }
+    ]
+}

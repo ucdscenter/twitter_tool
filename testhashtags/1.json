@@ -1,0 +1,2082 @@
+[
+    {
+        "created_at": "Thu Sep 01 06:41:01 +0000 2016",
+        "id": 771236401534775296,
+        "id_str": "771236401534775296",
+        "text": "RT @angelenoesther: Seems speech filled with lies, falsehoods, half-truths.   https://t.co/wAOJafHNds #trumpaz #nevertrump #imwithher",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 761397352582090752,
+            "id_str": "761397352582090752",
+            "name": "Creator ofMy Destiny",
+            "screen_name": "ebonydreem",
+            "location": "North Carolina, USA",
+            "url": null,
+            "description": null,
+            "protected": false,
+            "verified": false,
+            "followers_count": 47,
+            "friends_count": 44,
+            "listed_count": 10,
+            "favourites_count": 1400,
+            "statuses_count": 1293,
+            "created_at": "Fri Aug 05 03:04:10 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "2B7BB9",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/761402557063311360/HyWDSNBq_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/761402557063311360/HyWDSNBq_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/761397352582090752/1470367489",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Sep 01 05:29:03 +0000 2016",
+            "id": 771218290140061697,
+            "id_str": "771218290140061697",
+            "text": "Seems speech filled with lies, falsehoods, half-truths.   https://t.co/wAOJafHNds #trumpaz #nevertrump #imwithher",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 742543092901765120,
+                "id_str": "742543092901765120",
+                "name": "Los Angeles Esther",
+                "screen_name": "angelenoesther",
+                "location": "Los Angeles, CA",
+                "url": null,
+                "description": "Alter Ego for a Liberal who wants to see a better world.  My thoughts on news, occasional comments on sports & pop culture. No lists please. I don't feed trolls",
+                "protected": false,
+                "verified": false,
+                "followers_count": 379,
+                "friends_count": 309,
+                "listed_count": 14,
+                "favourites_count": 3916,
+                "statuses_count": 4705,
+                "created_at": "Tue Jun 14 02:24:03 +0000 2016",
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "7FDBB6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/743870238156984322/v6ZRYF4J_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/743870238156984322/v6ZRYF4J_normal.jpg",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 17,
+            "favorite_count": 22,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "trumpaz",
+                        "indices": [
+                            82,
+                            90
+                        ]
+                    },
+                    {
+                        "text": "nevertrump",
+                        "indices": [
+                            91,
+                            102
+                        ]
+                    },
+                    {
+                        "text": "imwithher",
+                        "indices": [
+                            103,
+                            113
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/wAOJafHNds",
+                        "expanded_url": "http://apne.ws/2bTOhAR",
+                        "display_url": "apne.ws/2bTOhAR",
+                        "indices": [
+                            58,
+                            81
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "trumpaz",
+                    "indices": [
+                        102,
+                        110
+                    ]
+                },
+                {
+                    "text": "nevertrump",
+                    "indices": [
+                        111,
+                        122
+                    ]
+                },
+                {
+                    "text": "imwithher",
+                    "indices": [
+                        123,
+                        133
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/wAOJafHNds",
+                    "expanded_url": "http://apne.ws/2bTOhAR",
+                    "display_url": "apne.ws/2bTOhAR",
+                    "indices": [
+                        78,
+                        101
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "angelenoesther",
+                    "name": "Los Angeles Esther",
+                    "id": 742543092901765120,
+                    "id_str": "742543092901765120",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472712061662"
+    },
+    {
+        "created_at": "Thu Sep 01 06:41:30 +0000 2016",
+        "id": 771236523178020865,
+        "id_str": "771236523178020865",
+        "text": "Now tracking: 'Our last chance': #trump doubles-down on primary-season #immigration rhetoric in hardline speech https://t.co/pfTLJwtJOT",
+        "source": "<a href=\"http://www.topicly.io\" rel=\"nofollow\">Topicly Conn Test</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 770815206947557376,
+            "id_str": "770815206947557376",
+            "name": "Topicly Immigration",
+            "screen_name": "topiclyimnews",
+            "location": null,
+            "url": "http://www.topicly.io/topic/immigration",
+            "description": "AI and ML bringing you the most relevant immigration news",
+            "protected": false,
+            "verified": false,
+            "followers_count": 10,
+            "friends_count": 43,
+            "listed_count": 1,
+            "favourites_count": 68,
+            "statuses_count": 129,
+            "created_at": "Wed Aug 31 02:47:21 +0000 2016",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "232323",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/770815675233292288/sol-lraV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/770815675233292288/sol-lraV_normal.jpg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "trump",
+                    "indices": [
+                        33,
+                        39
+                    ]
+                },
+                {
+                    "text": "immigration",
+                    "indices": [
+                        71,
+                        83
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/pfTLJwtJOT",
+                    "expanded_url": "http://www.topicly.io/topic/immigration?57c7b064e29ed22f00d26228",
+                    "display_url": "topicly.io/topic/immigrat\u2026",
+                    "indices": [
+                        112,
+                        135
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472712090664"
+    },
+    {
+        "created_at": "Thu Sep 01 06:56:24 +0000 2016",
+        "id": 771240272889950208,
+        "id_str": "771240272889950208",
+        "text": "#trump #donaldtrump #Trump2016 #trumptrain #trumparmy #pence #MikePence #pencetrump #TrumpForPresident... https://t.co/p3MstprSZm",
+        "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 351142250,
+            "id_str": "351142250",
+            "name": "ENG - Live News",
+            "screen_name": "BreakingBad263",
+            "location": "facebook.com/breakingbad263",
+            "url": "https://www.youtube.com/breakingbad263",
+            "description": "https://t.co/3dXoEPWGrW Subscribe For The Latest Donald Trump News + Get Notifications When We Go Live! #trump #donaldtrump #MakeAmericaGreatAgain #Trump2016",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1522,
+            "friends_count": 3517,
+            "listed_count": 102,
+            "favourites_count": 780,
+            "statuses_count": 15212,
+            "created_at": "Mon Aug 08 21:08:28 +0000 2011",
+            "utc_offset": 7200,
+            "time_zone": "Stockholm",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/685026636002099200/ri6Ixyx2_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/685026636002099200/ri6Ixyx2_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/351142250/1452504191",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "trump",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "text": "donaldtrump",
+                    "indices": [
+                        7,
+                        19
+                    ]
+                },
+                {
+                    "text": "Trump2016",
+                    "indices": [
+                        20,
+                        30
+                    ]
+                },
+                {
+                    "text": "trumptrain",
+                    "indices": [
+                        31,
+                        42
+                    ]
+                },
+                {
+                    "text": "trumparmy",
+                    "indices": [
+                        43,
+                        53
+                    ]
+                },
+                {
+                    "text": "pence",
+                    "indices": [
+                        54,
+                        60
+                    ]
+                },
+                {
+                    "text": "MikePence",
+                    "indices": [
+                        61,
+                        71
+                    ]
+                },
+                {
+                    "text": "pencetrump",
+                    "indices": [
+                        72,
+                        83
+                    ]
+                },
+                {
+                    "text": "TrumpForPresident",
+                    "indices": [
+                        84,
+                        102
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/p3MstprSZm",
+                    "expanded_url": "http://youtu.be/qYW1ON-G0Zg?a",
+                    "display_url": "youtu.be/qYW1ON-G0Zg?a",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "und",
+        "timestamp_ms": "1472712984665"
+    },
+    {
+        "created_at": "Thu Sep 01 06:37:05 +0000 2016",
+        "id": 771235411662245888,
+        "id_str": "771235411662245888",
+        "text": "#nevertrump Obama to Bypass Congress and Pretend to \u201cRatify\u201d UN Clima... https://t.co/q4fzjHRljL",
+        "source": "<a href=\"http://nyc.epeak.in/\" rel=\"nofollow\">http://nyc.epeak.in/</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2245899935,
+            "id_str": "2245899935",
+            "name": "Dirty Donald",
+            "screen_name": "onorPeaks",
+            "location": null,
+            "url": "http://nyc.epeak.in/lenta/politika/",
+            "description": "https://www.facebook.com/epeakin/",
+            "protected": false,
+            "verified": false,
+            "followers_count": 6546,
+            "friends_count": 5253,
+            "listed_count": 76,
+            "favourites_count": 9,
+            "statuses_count": 121861,
+            "created_at": "Fri Dec 27 06:48:19 +0000 2013",
+            "utc_offset": 14400,
+            "time_zone": "Yerevan",
+            "geo_enabled": false,
+            "lang": "ru",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163080546/g-eUor7q.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163080546/g-eUor7q.jpeg",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/750966589898498048/VtbADdd1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/750966589898498048/VtbADdd1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2245899935/1467879677",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nevertrump",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/q4fzjHRljL",
+                    "expanded_url": "http://nyc.epeak.in/832_2787701",
+                    "display_url": "nyc.epeak.in/832_2787701",
+                    "indices": [
+                        73,
+                        96
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472711825658"
+    },
+    {
+        "created_at": "Thu Sep 01 06:50:49 +0000 2016",
+        "id": 771238867798155265,
+        "id_str": "771238867798155265",
+        "text": "Let's trace her sub files of the emails &amp; maybe levels so deep w/ security pw that even the gov can't find them https://t.co/9pQ75bxZvV",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 66228336,
+            "id_str": "66228336",
+            "name": "Deb K",
+            "screen_name": "bistrogal2",
+            "location": null,
+            "url": null,
+            "description": null,
+            "protected": false,
+            "verified": false,
+            "followers_count": 114,
+            "friends_count": 393,
+            "listed_count": 0,
+            "favourites_count": 395,
+            "statuses_count": 798,
+            "created_at": "Mon Aug 17 00:21:58 +0000 2009",
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2599528075/aezctr4z1rnk3ebx68e5_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2599528075/aezctr4z1rnk3ebx68e5_normal.jpeg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 771237658454470657,
+        "quoted_status_id_str": "771237658454470657",
+        "quoted_status": {
+            "created_at": "Thu Sep 01 06:46:01 +0000 2016",
+            "id": 771237658454470657,
+            "id_str": "771237658454470657",
+            "text": "#realdonaldtrump No Trust Hillary #military #army #navy #usmc #airforce #veterans #trump #trumptrain #trump2016 https://t.co/4xU52fcuNk",
+            "source": "<a href=\"http://www.tweetjukebox.com\" rel=\"nofollow\">Tweet Jukebox</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 449110269,
+                "id_str": "449110269",
+                "name": "American Right Now",
+                "screen_name": "amrightnow",
+                "location": "New Jersey, USA",
+                "url": "http://americanrightnow.com/",
+                "description": "Facebook: https://www.facebook.com/americanrightnow/ YouTube: https://www.youtube.com/channel/UCOUX_HEu7ufkt6C4hfrM5uw/feed",
+                "protected": false,
+                "verified": false,
+                "followers_count": 30231,
+                "friends_count": 30173,
+                "listed_count": 266,
+                "favourites_count": 3625,
+                "statuses_count": 424313,
+                "created_at": "Wed Dec 28 19:09:40 +0000 2011",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671060570561318912/ySFbwbfm.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671060570561318912/ySFbwbfm.png",
+                "profile_background_tile": true,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/682881796820873216/PGGTp6Jc_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/682881796820873216/PGGTp6Jc_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/449110269/1451678105",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "realdonaldtrump",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "text": "military",
+                        "indices": [
+                            34,
+                            43
+                        ]
+                    },
+                    {
+                        "text": "army",
+                        "indices": [
+                            44,
+                            49
+                        ]
+                    },
+                    {
+                        "text": "navy",
+                        "indices": [
+                            50,
+                            55
+                        ]
+                    },
+                    {
+                        "text": "usmc",
+                        "indices": [
+                            56,
+                            61
+                        ]
+                    },
+                    {
+                        "text": "airforce",
+                        "indices": [
+                            62,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "veterans",
+                        "indices": [
+                            72,
+                            81
+                        ]
+                    },
+                    {
+                        "text": "trump",
+                        "indices": [
+                            82,
+                            88
+                        ]
+                    },
+                    {
+                        "text": "trumptrain",
+                        "indices": [
+                            89,
+                            100
+                        ]
+                    },
+                    {
+                        "text": "trump2016",
+                        "indices": [
+                            101,
+                            111
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 771237655208087552,
+                        "id_str": "771237655208087552",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrP8j6wVUAAW010.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrP8j6wVUAAW010.jpg",
+                        "url": "https://t.co/4xU52fcuNk",
+                        "display_url": "pic.twitter.com/4xU52fcuNk",
+                        "expanded_url": "https://twitter.com/amrightnow/status/771237658454470657/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 458,
+                                "h": 471,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 458,
+                                "h": 471,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 458,
+                                "h": 471,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 771237655208087552,
+                        "id_str": "771237655208087552",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrP8j6wVUAAW010.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrP8j6wVUAAW010.jpg",
+                        "url": "https://t.co/4xU52fcuNk",
+                        "display_url": "pic.twitter.com/4xU52fcuNk",
+                        "expanded_url": "https://twitter.com/amrightnow/status/771237658454470657/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 458,
+                                "h": 471,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 458,
+                                "h": 471,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 458,
+                                "h": 471,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9pQ75bxZvV",
+                    "expanded_url": "https://twitter.com/amrightnow/status/771237658454470657",
+                    "display_url": "twitter.com/amrightnow/sta\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472712649665"
+    },
+    {
+        "created_at": "Thu Sep 01 06:46:02 +0000 2016",
+        "id": 771237664011882496,
+        "id_str": "771237664011882496",
+        "text": "RT @immigrant4trump: Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa ht\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2756749971,
+            "id_str": "2756749971",
+            "name": "Anitra Blake",
+            "screen_name": "Chancedgfe",
+            "location": "Ohio",
+            "url": null,
+            "description": "I'm a retired Firefighter/Paramedic from Ohio.I believe in God-love my country. My world consists of -Under God-we r created equal. Ohh I'm voting for Trump-lol",
+            "protected": false,
+            "verified": false,
+            "followers_count": 187,
+            "friends_count": 263,
+            "listed_count": 3,
+            "favourites_count": 1883,
+            "statuses_count": 2900,
+            "created_at": "Sun Aug 31 05:53:50 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/769463415484080128/2lForS2z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/769463415484080128/2lForS2z_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Sep 01 06:22:40 +0000 2016",
+            "id": 771231782431694848,
+            "id_str": "771231782431694848",
+            "text": "Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa https://t.co/LuLZajaWoF",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3677742792,
+                "id_str": "3677742792",
+                "name": "Immigrants\u26064\u2606Trump",
+                "screen_name": "immigrant4trump",
+                "location": null,
+                "url": "https://www.youtube.com/channel/UCq7-f1dGAoUNUSKrDqlvGFg",
+                "description": "Mark F. -Immigrants\u2606For\u2606Trump-IMMIGRANTS UNITED TO MAKE AMERICA GREAT AGAIN! & AMERICA UNITED TOGETHER- #Latinosfortrump #Asiansfortrump Group Started 9/15",
+                "protected": false,
+                "verified": false,
+                "followers_count": 50127,
+                "friends_count": 15652,
+                "listed_count": 339,
+                "favourites_count": 20682,
+                "statuses_count": 13971,
+                "created_at": "Fri Sep 25 04:43:54 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/725884020857442309/wsNLizq8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/725884020857442309/wsNLizq8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3677742792/1468030249",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 89,
+            "favorite_count": 91,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FreeMelissa",
+                        "indices": [
+                            103,
+                            115
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "sweetatertot2",
+                        "name": "Melissa2",
+                        "id": 762389795037294592,
+                        "id_str": "762389795037294592",
+                        "indices": [
+                            52,
+                            66
+                        ]
+                    },
+                    {
+                        "screen_name": "twitter",
+                        "name": "Twitter",
+                        "id": 783214,
+                        "id_str": "783214",
+                        "indices": [
+                            71,
+                            79
+                        ]
+                    },
+                    {
+                        "screen_name": "Support",
+                        "name": "Twitter Support",
+                        "id": 17874544,
+                        "id_str": "17874544",
+                        "indices": [
+                            80,
+                            88
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 771231774680637441,
+                        "id_str": "771231774680637441",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "url": "https://t.co/LuLZajaWoF",
+                        "display_url": "pic.twitter.com/LuLZajaWoF",
+                        "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 535,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 771231774680637441,
+                        "id_str": "771231774680637441",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "url": "https://t.co/LuLZajaWoF",
+                        "display_url": "pic.twitter.com/LuLZajaWoF",
+                        "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 535,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FreeMelissa",
+                    "indices": [
+                        124,
+                        136
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "immigrant4trump",
+                    "name": "Immigrants\u26064\u2606Trump",
+                    "id": 3677742792,
+                    "id_str": "3677742792",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "sweetatertot2",
+                    "name": "Melissa2",
+                    "id": 762389795037294592,
+                    "id_str": "762389795037294592",
+                    "indices": [
+                        73,
+                        87
+                    ]
+                },
+                {
+                    "screen_name": "twitter",
+                    "name": "Twitter",
+                    "id": 783214,
+                    "id_str": "783214",
+                    "indices": [
+                        92,
+                        100
+                    ]
+                },
+                {
+                    "screen_name": "Support",
+                    "name": "Twitter Support",
+                    "id": 17874544,
+                    "id_str": "17874544",
+                    "indices": [
+                        101,
+                        109
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 771231774680637441,
+                    "id_str": "771231774680637441",
+                    "indices": [
+                        139,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "url": "https://t.co/LuLZajaWoF",
+                    "display_url": "pic.twitter.com/LuLZajaWoF",
+                    "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 535,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 771231782431694848,
+                    "source_status_id_str": "771231782431694848",
+                    "source_user_id": 3677742792,
+                    "source_user_id_str": "3677742792"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 771231774680637441,
+                    "id_str": "771231774680637441",
+                    "indices": [
+                        139,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "url": "https://t.co/LuLZajaWoF",
+                    "display_url": "pic.twitter.com/LuLZajaWoF",
+                    "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 535,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 771231782431694848,
+                    "source_status_id_str": "771231782431694848",
+                    "source_user_id": 3677742792,
+                    "source_user_id_str": "3677742792"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472712362660"
+    },
+    {
+        "created_at": "Thu Sep 01 06:32:21 +0000 2016",
+        "id": 771234220488335360,
+        "id_str": "771234220488335360",
+        "text": "#nevertrump Trio of killers dress up corpse and go on joy ride: cops... https://t.co/fNGaAJchyo",
+        "source": "<a href=\"http://nyc.epeak.in/\" rel=\"nofollow\">http://nyc.epeak.in/</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2245899935,
+            "id_str": "2245899935",
+            "name": "Dirty Donald",
+            "screen_name": "onorPeaks",
+            "location": null,
+            "url": "http://nyc.epeak.in/lenta/politika/",
+            "description": "https://www.facebook.com/epeakin/",
+            "protected": false,
+            "verified": false,
+            "followers_count": 6545,
+            "friends_count": 5253,
+            "listed_count": 76,
+            "favourites_count": 9,
+            "statuses_count": 121845,
+            "created_at": "Fri Dec 27 06:48:19 +0000 2013",
+            "utc_offset": 14400,
+            "time_zone": "Yerevan",
+            "geo_enabled": false,
+            "lang": "ru",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163080546/g-eUor7q.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163080546/g-eUor7q.jpeg",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/750966589898498048/VtbADdd1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/750966589898498048/VtbADdd1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2245899935/1467879677",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nevertrump",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/fNGaAJchyo",
+                    "expanded_url": "http://nyc.epeak.in/832_2787646",
+                    "display_url": "nyc.epeak.in/832_2787646",
+                    "indices": [
+                        72,
+                        95
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472711541660"
+    },
+    {
+        "created_at": "Thu Sep 01 06:38:22 +0000 2016",
+        "id": 771235734640467969,
+        "id_str": "771235734640467969",
+        "text": "Scary how many people take this guy serious. I know the stereotype of stupid middle America but seriously... #trump https://t.co/mU6zYgcxF4",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 376162272,
+            "id_str": "376162272",
+            "name": "Sean Kennedy",
+            "screen_name": "SallaSean",
+            "location": "Wexford, Ireland",
+            "url": null,
+            "description": "I'll never get my comeuppance!",
+            "protected": false,
+            "verified": false,
+            "followers_count": 157,
+            "friends_count": 412,
+            "listed_count": 2,
+            "favourites_count": 343,
+            "statuses_count": 1979,
+            "created_at": "Mon Sep 19 12:19:13 +0000 2011",
+            "utc_offset": 3600,
+            "time_zone": "Dublin",
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_link_color": "FF0E0E",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/477107459317047298/J8opIJIR_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/477107459317047298/J8opIJIR_normal.jpeg",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 771210555822477313,
+        "quoted_status_id_str": "771210555822477313",
+        "quoted_status": {
+            "created_at": "Thu Sep 01 04:58:19 +0000 2016",
+            "id": 771210555822477313,
+            "id_str": "771210555822477313",
+            "text": "Mexico will pay for the wall - 100%!\n#MakeAmericaGreatAgain #ImWithYou\nhttps://t.co/pSFuPZz0xP",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 25073877,
+                "id_str": "25073877",
+                "name": "Donald J. Trump",
+                "screen_name": "realDonaldTrump",
+                "location": "New York, NY",
+                "url": "http://www.DonaldJTrump.com",
+                "description": "#TrumpPence16",
+                "protected": false,
+                "verified": true,
+                "followers_count": 11239682,
+                "friends_count": 42,
+                "listed_count": 38072,
+                "favourites_count": 37,
+                "statuses_count": 33070,
+                "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "6D5C18",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+                "profile_background_tile": true,
+                "profile_link_color": "0D5B73",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "C5CEC0",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1468988952",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3490,
+            "favorite_count": 6171,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "MakeAmericaGreatAgain",
+                        "indices": [
+                            37,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "ImWithYou",
+                        "indices": [
+                            60,
+                            70
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/pSFuPZz0xP",
+                        "expanded_url": "http://www.snappytv.com/tc/2711677",
+                        "display_url": "snappytv.com/tc/2711677",
+                        "indices": [
+                            71,
+                            94
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "trump",
+                    "indices": [
+                        109,
+                        115
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/mU6zYgcxF4",
+                    "expanded_url": "https://twitter.com/realdonaldtrump/status/771210555822477313",
+                    "display_url": "twitter.com/realdonaldtrum\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472711902662"
+    },
+    {
+        "created_at": "Thu Sep 01 06:38:33 +0000 2016",
+        "id": 771235780777816064,
+        "id_str": "771235780777816064",
+        "text": "RT @immigrant4trump: Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa ht\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1180221823,
+            "id_str": "1180221823",
+            "name": "tim trulock",
+            "screen_name": "TimTrulock",
+            "location": null,
+            "url": "https://twitter.com/",
+            "description": null,
+            "protected": false,
+            "verified": false,
+            "followers_count": 123,
+            "friends_count": 377,
+            "listed_count": 1,
+            "favourites_count": 194,
+            "statuses_count": 2157,
+            "created_at": "Thu Feb 14 20:18:19 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/534980834668085248/gADJMPxF_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/534980834668085248/gADJMPxF_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180221823/1360890718",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Sep 01 06:22:40 +0000 2016",
+            "id": 771231782431694848,
+            "id_str": "771231782431694848",
+            "text": "Twitter suspends Black conservative Trump Supporter @sweetatertot2 Hey @twitter @Support Put her back! #FreeMelissa https://t.co/LuLZajaWoF",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3677742792,
+                "id_str": "3677742792",
+                "name": "Immigrants\u26064\u2606Trump",
+                "screen_name": "immigrant4trump",
+                "location": null,
+                "url": "https://www.youtube.com/channel/UCq7-f1dGAoUNUSKrDqlvGFg",
+                "description": "Mark F. -Immigrants\u2606For\u2606Trump-IMMIGRANTS UNITED TO MAKE AMERICA GREAT AGAIN! & AMERICA UNITED TOGETHER- #Latinosfortrump #Asiansfortrump Group Started 9/15",
+                "protected": false,
+                "verified": false,
+                "followers_count": 50126,
+                "friends_count": 15652,
+                "listed_count": 337,
+                "favourites_count": 20681,
+                "statuses_count": 13970,
+                "created_at": "Fri Sep 25 04:43:54 +0000 2015",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/725884020857442309/wsNLizq8_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/725884020857442309/wsNLizq8_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3677742792/1468030249",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 65,
+            "favorite_count": 69,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FreeMelissa",
+                        "indices": [
+                            103,
+                            115
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "sweetatertot2",
+                        "name": "Melissa2",
+                        "id": 762389795037294592,
+                        "id_str": "762389795037294592",
+                        "indices": [
+                            52,
+                            66
+                        ]
+                    },
+                    {
+                        "screen_name": "twitter",
+                        "name": "Twitter",
+                        "id": 783214,
+                        "id_str": "783214",
+                        "indices": [
+                            71,
+                            79
+                        ]
+                    },
+                    {
+                        "screen_name": "Support",
+                        "name": "Twitter Support",
+                        "id": 17874544,
+                        "id_str": "17874544",
+                        "indices": [
+                            80,
+                            88
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 771231774680637441,
+                        "id_str": "771231774680637441",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "url": "https://t.co/LuLZajaWoF",
+                        "display_url": "pic.twitter.com/LuLZajaWoF",
+                        "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 535,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 771231774680637441,
+                        "id_str": "771231774680637441",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                        "url": "https://t.co/LuLZajaWoF",
+                        "display_url": "pic.twitter.com/LuLZajaWoF",
+                        "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 750,
+                                "h": 954,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 535,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "FreeMelissa",
+                    "indices": [
+                        124,
+                        136
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "immigrant4trump",
+                    "name": "Immigrants\u26064\u2606Trump",
+                    "id": 3677742792,
+                    "id_str": "3677742792",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                },
+                {
+                    "screen_name": "sweetatertot2",
+                    "name": "Melissa2",
+                    "id": 762389795037294592,
+                    "id_str": "762389795037294592",
+                    "indices": [
+                        73,
+                        87
+                    ]
+                },
+                {
+                    "screen_name": "twitter",
+                    "name": "Twitter",
+                    "id": 783214,
+                    "id_str": "783214",
+                    "indices": [
+                        92,
+                        100
+                    ]
+                },
+                {
+                    "screen_name": "Support",
+                    "name": "Twitter Support",
+                    "id": 17874544,
+                    "id_str": "17874544",
+                    "indices": [
+                        101,
+                        109
+                    ]
+                }
+            ],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 771231774680637441,
+                    "id_str": "771231774680637441",
+                    "indices": [
+                        139,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "url": "https://t.co/LuLZajaWoF",
+                    "display_url": "pic.twitter.com/LuLZajaWoF",
+                    "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 535,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 771231782431694848,
+                    "source_status_id_str": "771231782431694848",
+                    "source_user_id": 3677742792,
+                    "source_user_id_str": "3677742792"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 771231774680637441,
+                    "id_str": "771231774680637441",
+                    "indices": [
+                        139,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CrP3NoFVYAEZULq.jpg",
+                    "url": "https://t.co/LuLZajaWoF",
+                    "display_url": "pic.twitter.com/LuLZajaWoF",
+                    "expanded_url": "https://twitter.com/immigrant4trump/status/771231782431694848/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 750,
+                            "h": 954,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 535,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 771231782431694848,
+                    "source_status_id_str": "771231782431694848",
+                    "source_user_id": 3677742792,
+                    "source_user_id_str": "3677742792"
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472711913662"
+    },
+    {
+        "created_at": "Thu Sep 01 06:54:03 +0000 2016",
+        "id": 771239681467887616,
+        "id_str": "771239681467887616",
+        "text": "#trumpaz was the worst speech of division I've ever heard  https://t.co/Tflvvld0aZ",
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4917092018,
+            "id_str": "4917092018",
+            "name": "Business4Hillary",
+            "screen_name": "puppymnkey",
+            "location": "Colorado, USA",
+            "url": null,
+            "description": "Pragmatic voter. Ideology shuts down thought & problem solving. Trump is not smart enough, brave enough or good enough 2B POTUS #imwithher",
+            "protected": false,
+            "verified": false,
+            "followers_count": 15576,
+            "friends_count": 10088,
+            "listed_count": 242,
+            "favourites_count": 105906,
+            "statuses_count": 72276,
+            "created_at": "Tue Feb 16 18:24:23 +0000 2016",
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "2B7BB9",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/743295633205788672/DesFFSuX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/743295633205788672/DesFFSuX_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4917092018/1462645451",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 771177901702033408,
+        "quoted_status_id_str": "771177901702033408",
+        "quoted_status": {
+            "created_at": "Thu Sep 01 02:48:34 +0000 2016",
+            "id": 771177901702033408,
+            "id_str": "771177901702033408",
+            "text": "Trump is an embarrassment to civilization. A crackpot who exploited a broken party and a broken nominating process to threaten the world.",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 97106823,
+                "id_str": "97106823",
+                "name": "Bob Cesca",
+                "screen_name": "bobcesca_go",
+                "location": null,
+                "url": "http://www.bobcesca.com",
+                "description": "The Bob & Chez Show. Writer: http://www.Salon.com, http://www.TheDailyBanter.com, Huffpo. Weekly regular on The Stephanie Miller Show and Tell Me Everything.",
+                "protected": false,
+                "verified": false,
+                "followers_count": 16939,
+                "friends_count": 766,
+                "listed_count": 899,
+                "favourites_count": 12637,
+                "statuses_count": 50889,
+                "created_at": "Wed Dec 16 01:33:51 +0000 2009",
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458687246732775424/5rfIXt1P.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458687246732775424/5rfIXt1P.jpeg",
+                "profile_background_tile": true,
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/759933085328695296/H5XEQaKv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/759933085328695296/H5XEQaKv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/97106823/1470790179",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 89,
+            "favorite_count": 142,
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "trumpaz",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Tflvvld0aZ",
+                    "expanded_url": "https://twitter.com/bobcesca_go/status/771177901702033408",
+                    "display_url": "twitter.com/bobcesca_go/st\u2026",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1472712843659"
+    }
+]
