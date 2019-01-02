@@ -1,8 +1,8 @@
 ## Downloading and unzipping ##
-###Downoad###
+### Downoad ###
 Go to the archive.org twitter stream https://archive.org/details/twitterstream and download the month(s) you wish to explore.
 This will take a long time depending on your internet connection, as these tend to be about 40gb files. They are organized by day, then by hour then json files are stored for each minute. 
-###Unzip###
+### Unzip ###
 Move this month folder you have downloaded into the twitter-network-creator folder. Now unzip the files for the days your are interested in, generally to save space only unzip the range of days you plan on exploring. 
 
 To do this, open the unzipper file and make the following edits:
@@ -13,11 +13,11 @@ To do this, open the unzipper file and make the following edits:
 Now in terminal, change directories into the twitter-network-creator folder and run 'bash unzipper'. It should start unzipping all of the files we will need. Bear in mind some of these archive months are incomplete, so you may see a number of bzip no such file errors; for the most part these can be ignored. 
 
 
-##Searching and Formatting##
+## Searching and Formatting ##
 Once you have unzipped your files, we can search them for relevant terms/users and store them separately for network creation and visualization. To do this, you need to import the twitter_tool module in a python script, or you can just edit the twitter_tool_test.py file. 
 
 Here are the  twitter_tool module functions and their parameters:
-###search: searches the unzipped archive files for a supplied list of terms and stores those filtered tweets in a new folder###
+### search: searches the unzipped archive files for a supplied list of terms and stores those filtered tweets in a new folder ###
 twitter_tool.search(start_day, end_day, type_of_search, array_of_terms, write_folder_name, read_folder_name)
 * start_day - first day in the range you want to search
 * end_day - one greater than your end date
@@ -26,7 +26,7 @@ twitter_tool.search(start_day, end_day, type_of_search, array_of_terms, write_fo
 * write_folder_name - the name of the folder where you would like to store the search folder results.
 * interactions - whether or not to include all tweets that are retweeted/mentioned/replied to/quoted. For most complete graphs do  this, but with large groups of popular users as search terms, sometimes doing this cleans up the graph and makes it more efficient.
 
-###graph_format: takes as input the path to the filtered files created from search, and formats it for the d3 vis. ###
+### graph_format: takes as input the path to the filtered files created from search, and formats it for the d3 vis. ###
 twitter_tool.graph_format(start_day, end_day, groups, read_folder_name, write_file_name)
 * start_day - first day in the range you want to search
 * end_day - one greater than your end date
@@ -34,7 +34,7 @@ twitter_tool.graph_format(start_day, end_day, groups, read_folder_name, write_fi
 * read_folder_name - name of the folder where the filtered files are stored
 * write_file_name - name of the .json file where the formatted data will be stored.
 
-###get_handles: takes the list of handles of nodes generated from the graph_format function and writes them as csv###
+### get_handles: takes the list of handles of nodes generated from the graph_format function and writes them as csv ###
 twitter_tool.get_handles(write_file_name) 
 can only be called after graph format has been called, otherwise the nodes list will be empty. This should be used to pull handle lists for advanced graphs with groups.
 * write_file_name - name of csv file where handles will be written.
@@ -53,20 +53,20 @@ d.get_handles('testhandles.csv')
 
 
 
-##Visualizing##
+## Visualizing ##
 To visualize, open up newd3.html and add the name of the json file you created to the array in line 245. 
 
 Now, go to terminal and make sure you're in the twitter-network-creator folder. run python -m SimpleHTTPServer(if on python 2) or python -m http.server (if on python 3)
 
 Open up your browser and go to http://0.0.0.0:8000/newd3.html and you'll be able to see the graph you created!
-##Advanced##
-###Adding groups###
+## Advanced ##
+### Adding groups ###
 To create graphs with multiple different groups of nodes, pass a list of lists of twitter handles (as strings) into the third parameter of graph_format.
 If you want to generate a list of users automatically and store them, after running the graph_format function you can call get_handles with a write file name to save every twitter handle in a network in a csv file. You can load that file and pass it in as one of the lists of lists.
-###Adding remove groups###
+### Adding remove groups ###
 To add removal functionality to groups in the vis, first create a csv file of twitter handles in a group formatted in the same way as what is returned from a call to get_handles. Once you have those csv files and the .json network file, you can open newd3.html and change line 299 to await d3.csv('your file here.csv')
 
-###Generating key users, first and second level user lists###
+### Generating key users, first and second level user lists ###
 
 To combine all of these functions, we can create isolated networks of users after building exploratory networks. 
 1. Create a general network by searching with a set of hashtags that interest you.
