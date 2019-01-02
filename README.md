@@ -1,4 +1,4 @@
-##Downloading and unzipping##
+## Downloading and unzipping ##
 ###Downoad###
 Go to the archive.org twitter stream https://archive.org/details/twitterstream and download the month(s) you wish to explore.
 This will take a long time depending on your internet connection, as these tend to be about 40gb files. They are organized by day, then by hour then json files are stored for each minute. 
