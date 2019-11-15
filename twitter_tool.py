@@ -3,6 +3,7 @@ import os
 import re
 import json
 import csv
+import bz2
 
 
 class Gnode:
@@ -94,12 +95,13 @@ class TwitterTool():
 					for minute in os.listdir(self.tweetpath +'/'+ daystring +'/'+hourstring):
 						if minute.startswith('.'):
 							continue
-						#if int(minute) < 10:
-						#	minutestring='0'+str(minute)
 						else:
 							minutestring=str(minute)
+
 						print (str(day)+'/'+hourstring+'/'+minutestring)
-						for line in open(self.tweetpath + "/" +daystring+'/'+hourstring+'/'+minutestring, 'r'):
+						fp = self.tweetpath + "/" +daystring+'/'+hourstring+'/'+minutestring
+						file_obj = bz2.BZ2File(fp, 'rb')
+						for line in file_obj:
 							tweet = json.loads(line)
 							if self.s_type == "username":
 								if 'user' not in tweet:

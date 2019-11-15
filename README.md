@@ -2,15 +2,9 @@
 ### Downoad ###
 Go to the archive.org twitter stream https://archive.org/details/twitterstream and download the month(s) you wish to explore.
 This will take a long time depending on your internet connection, as these tend to be about 40gb files. They are organized by day, then by hour then json files are stored for each minute. 
-### Unzip ###
-Move this month folder you have downloaded into the twitter-network-creator folder. Now unzip the files for the days your are interested in, generally to save space only unzip the range of days you plan on exploring. 
-
-To do this, open the unzipper file and make the following edits:
-* On line 3 change the '09' to whatever the name of the month folder you downloaded is. 
-* On line 4 change the COUNTER=1 to COUNTER=(your start date)
-* On line 5 change the '31' to one greater than your end date
-
-Now in terminal, change directories into the twitter-network-creator folder and run 'bash unzipper'. It should start unzipping all of the files we will need. Bear in mind some of these archive months are incomplete, so you may see a number of bzip no such file errors; for the most part these can be ignored. 
+### Prepare Data ###
+Expand your tarball.
+If you downloaded a single day, rather than a month (new archive.org data structuring) create a folder for the month the day is in and move the day folder into that directory. 
 
 
 ## Searching and Formatting ##
