@@ -8,7 +8,7 @@ If you downloaded a single day, rather than a month (new archive.org data struct
 
 
 ## Searching and Formatting ##
-Once you have unzipped your files, we can search them for relevant terms/users and store them separately for network creation and visualization. To do this, you need to import the twitter_tool module in a python script, or you can just edit the twitter_tool_test.py file. 
+Once you have unzipped your files, you can search them for relevant terms/users and store them separately for network creation and visualization. To do this, you need to import the twitter_tool module in python, or you can just edit the twitter_tool_test.py file. 
 
 Here are the  twitter_tool module functions and their parameters:
 ### search: searches the unzipped archive files for a supplied list of terms and stores those filtered tweets in a new folder ###
