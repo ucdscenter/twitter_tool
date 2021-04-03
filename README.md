@@ -2,6 +2,23 @@
 ### Downoad ###
 Go to the archive.org twitter stream https://archive.org/details/twitterstream and download the month(s) you wish to explore.
 This will take a long time depending on your internet connection, as these tend to be about 40gb files. They are organized by day, then by hour then json files are stored for each minute. 
+
+### Setup###
+
+Clone the repo
+
+Create a virtualenv, and activate it
+```bash
+python3 -m venv whatever_you_want_to_name_this
+source whatever_you_want_to_name_this/bin/activate
+```
+
+Install the required dependencies:
+```bash
+pip install --upgrade pip
+pip install networkx
+```
+
 ### Prepare Data ###
 Expand your tarball.
 If you downloaded a single day, rather than a month (new archive.org data structuring) create a folder for the month the day is in and move the day folder into that directory. 
