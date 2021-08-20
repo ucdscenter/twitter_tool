@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>Day Network</title>
+  <title>Test Network</title>
   <meta charset="utf-8" />
 <link rel="stylesheet" href="ext/css/bootstrap.min.css"/>
   <link rel="stylesheet" href="ext/css/dc.css"/> 
@@ -242,7 +242,7 @@ var parseDate = d3.timeParse('%a %b %d %X +0000 %Y')
 
 
 
-  let files = ["testhashtags2.json"]
+  let files = ["loltags.json"]
   let file = files[0];
   let selectThing = d3.select("#file_select").on("change", function(d){
 
@@ -299,7 +299,12 @@ var barg = barChart.append("g")
   let bots = []//await d3.csv('bots.csv')
   let news = []//await d3.csv('customnews.csv')
 
-
+if(bots.length == 0){
+  d3.select("#botsButton").classed("hide", true)
+}
+if (news.length == 0){
+  d3.select("#newsButton").classed("hide", true)
+}
  // console.log(graph.terms)
 
  let terms = graph.terms.sort(function(a,b){
@@ -573,7 +578,7 @@ function enlargeNode(){
               d.text.forEach(function(tweet){
                 len = len + tweet.length
               })
-            return   (len/20 + 2) * 13
+            return   1000
               })
     .attr("x", function(d){
       let selX = selnode.attr("transform").slice(10, 16) 

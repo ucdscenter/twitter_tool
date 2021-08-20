@@ -336,18 +336,19 @@ class TwitterTool():
 
 
 		graph_metrics = networkx.node_link_graph(self.tweet_graph)
-
-		node_metrics = networkx.betweenness_centrality(graph_metrics, weight="value")
+		
 		degree_metrics = networkx.degree_centrality(graph_metrics)
 		harmonic_metrics = networkx.harmonic_centrality(graph_metrics, distance="value")
-
-
-		for key in node_metrics:
+		try:
+			node_metrics = networkx.betweenness_centrality(graph_metrics, weight="value")
+		except:
+			node_metrics = None
+		for key in degree_metrics:
 			for n in self.tweet_graph["nodes"]:
 				if n["id"] == key:
 					n["graph_score"] = {
 						"handle" : n["name"],
-						"betweenness" : node_metrics[key],
+						"betweenness" : node_metrics[key] if node_metrics != None else "N/A",
 						"degree" : degree_metrics[key],
 						"harmonic" : harmonic_metrics[key]
 					}

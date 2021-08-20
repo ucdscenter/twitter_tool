@@ -1,0 +1,2438 @@
+{
+    "nodes": [
+        {
+            "graph_score": {
+                "handle": "ChareneSoares",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1238712019219611648,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [
+                "edtech",
+                "twitter",
+                "AppleEdu",
+                "excited"
+            ],
+            "text": [
+                "Not new to the #edtech journey, but new to #twitter and the #AppleEdu community. #excited to share and be a part of\u2026 https://t.co/gPfDxS09xI"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ChareneSoares",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "test5f1798",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 3,
+            "id": 2669983818,
+            "followers_count": 90,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "twitter",
+                "twitter"
+            ],
+            "text": [
+                "#twitter : a18e8cef-a9f7-462f-b43d-54d8f462a8e3",
+                "#twitter : 6ed0a571-e144-465b-8212-c50c39ffde6c",
+                "#twitter : 77aeb80a-9744-4ab0-a073-0129fa6c264b"
+            ],
+            "group": [
+                1
+            ],
+            "name": "test5f1798",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "haru___sigure",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1232433687108603906,
+            "followers_count": 12,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "lol\u521d\u5fc3\u8005"
+            ],
+            "text": [
+                "\u3075\u3042\u3042\u3041\u2282(\u3000  \u3063*\u00b4\u03c9`*)\u3063\n\u624b\u53d6\u308a\u8db3\u53d6\u308a\u6559\u3048\u3066\u8cb0\u3044\u306a\u304c\u3089\u30d7\u30ec\u30a4\u3059\u308b\u306e\u306f\u521d\u3081\u3066\u3063\u2661\n\n\u3042\u3001lol\u306e\u8a71\u3067\u3059( \u02d9\ua4b3\u200b\u02d9  )\n\u4eca\u5f8c\u306f\u30a2\u30fc\u30ea\u306e\u30c1\u30e3\u30fc\u30e0\u3092\u5f53\u3066\u3089\u308c\u308b\u79c1\u306b\u306a\u308b\uff01\n\n#lol #lol\u521d\u5fc3\u8005"
+            ],
+            "group": [
+                1
+            ],
+            "name": "haru___sigure",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "nicolaslkh",
+                "betweenness": "N/A",
+                "degree": 0.05714285714285714,
+                "harmonic": 16.0
+            },
+            "score": 1,
+            "id": 1108499101,
+            "followers_count": 426,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol"
+            ],
+            "text": [
+                "@margiesandjaya @jokowi @mohmahfudmd @Kemenag_RI Biar aja, biar nempel keq MUKA TEMBOK, sis\n\n#lol"
+            ],
+            "group": [
+                1
+            ],
+            "name": "nicolaslkh",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "margiesandjaya",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 14.999999999999998
+            },
+            "score": 0,
+            "id": 851124076714221568,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "margiesandjaya",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "jokowi",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.666666666666667
+            },
+            "score": 0,
+            "id": 366987179,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "jokowi",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mohmahfudmd",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.666666666666667
+            },
+            "score": 0,
+            "id": 282006208,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "mohmahfudmd",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Kemenag_RI",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.666666666666667
+            },
+            "score": 0,
+            "id": 175261567,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "Kemenag_RI",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "xd65boz3ssgra",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1229594736672919552,
+            "followers_count": 4,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8"
+            ],
+            "text": [
+                "\u4e59\u3067\u3059(*\u00b4\u0447`*)\u2764\n\n\u9854\u51fa\u3057\u9001\u308b\u3088\u30fc\u2665\n\u4e0b\u96a0\u3057\u3066\u306a\u3044\u3084\u3064\u2640\u2640\n\n\u6b32\u3057\u3044\u3063\u3066\u4eba\u306f\u30e9\u30a4\u30f3\u304d\u3066\u306d\u3299\ufe0f\u2763\ufe0f\n\n\u2746\u2746\u2746\n\n\u2708\u304b\u307e\u3063\u3066\n\u264f\u30a8\u30ed\u52d5\u753b\n#twitter\n#\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8"
+            ],
+            "group": [
+                1
+            ],
+            "name": "xd65boz3ssgra",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "bon_take",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 162561603,
+            "followers_count": 587,
+            "retweet_count": 0,
+            "hashtags": [
+                "\u5b89\u500d\u3084\u3081\u308d",
+                "twitter"
+            ],
+            "text": [
+                "\u3042 \u672c\u5f53\u3060 \u30cf\u30c3\u30b7\u30e5\u30bf\u30b0 #\u5b89\u500d\u3084\u3081\u308d \u304c\u30c8\u30ec\u30f3\u30c93\u4f4d\u3060\u3002 \n#twitter \u65e5\u672c\u306e\u691c\u95b2\u4fc2\u306f\u4eca\u65e5\u306f\u304a\u4f11\u307f\u304b\u306a\uff1f"
+            ],
+            "group": [
+                1
+            ],
+            "name": "bon_take",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "KrunalS45882929",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 12.0
+            },
+            "score": 1,
+            "id": 1207311108874178560,
+            "followers_count": 6,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "@Tejas_Gondalia @inshorts Now wtf are you upto?\ud83d\ude02\ud83d\ude02\nJust Quit Twitter #twitter chodho tejas\ud83e\udd23\ud83e\udd23\ud83e\udd23"
+            ],
+            "group": [
+                1
+            ],
+            "name": "KrunalS45882929",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Tejas_Gondalia",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 11.666666666666666
+            },
+            "score": 0,
+            "id": 3011370757,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "Tejas_Gondalia",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "inshorts",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 3.666666666666667
+            },
+            "score": 0,
+            "id": 1369761469,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "inshorts",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "jones_maddi7",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 949085626011455489,
+            "followers_count": 70,
+            "retweet_count": 0,
+            "hashtags": [
+                "FunnyPhoto",
+                "Cute",
+                "Cuteness",
+                "funny",
+                "FunniestTweets",
+                "laughter",
+                "laugh",
+                "humor",
+                "happy",
+                "haha",
+                "lol"
+            ],
+            "text": [
+                "RT @topfreecash1: Daily's: Funny Photo\n\n#FunnyPhoto\n#Cute\n#Cuteness\n#funny\n#FunniestTweets\n#laughter\n#laugh\n#humor\n#happy\n#haha\n#lol\n#retwe\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "jones_maddi7",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "topfreecash1",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 734568536329310208,
+            "followers_count": 2320,
+            "retweet_count": 19,
+            "hashtags": [
+                "FunnyPhoto",
+                "Cute",
+                "Cuteness",
+                "funny",
+                "FunniestTweets",
+                "laughter",
+                "laugh",
+                "humor",
+                "happy",
+                "haha",
+                "lol"
+            ],
+            "text": [
+                "Daily's: Funny Photo\n\n#FunnyPhoto\n#Cute\n#Cuteness\n#funny\n#FunniestTweets\n#laughter\n#laugh\n#humor\n#happy\n#haha\n#lol\u2026 https://t.co/eNeF4UD2Cv"
+            ],
+            "group": [
+                1
+            ],
+            "name": "topfreecash1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "L0ndonisL0vinit",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1150811214899027968,
+            "followers_count": 917,
+            "retweet_count": 0,
+            "hashtags": [
+                "londonislovinit",
+                "SkySport",
+                "lol"
+            ],
+            "text": [
+                "RT @NEWSHIRTPLEASE: Just tuned in to SKY SPORTS.  #londonislovinit #SkySport  #lol https://t.co/5KvWZqkuTS"
+            ],
+            "group": [
+                1
+            ],
+            "name": "L0ndonisL0vinit",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "NEWSHIRTPLEASE",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 272632713,
+            "followers_count": 1944,
+            "retweet_count": 2,
+            "hashtags": [
+                "londonislovinit",
+                "SkySport",
+                "lol"
+            ],
+            "text": [
+                "Just tuned in to SKY SPORTS.  #londonislovinit #SkySport  #lol https://t.co/5KvWZqkuTS"
+            ],
+            "group": [
+                1
+            ],
+            "name": "NEWSHIRTPLEASE",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "3fb5r36opd54y",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1229422622678474752,
+            "followers_count": 7,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8"
+            ],
+            "text": [
+                "\u3084\u3063\u307b\u30fc\n\n\u58c1|\u03c9\u30fb`)\uff81\uff97\uff6f\u2665\u2665\u2665\n\n\u30aa\u30ca\u52d5\u753b\u64ae\u5f71\u3057\u3066\u307f\u305f\uff57\n\n\u89b3\u305f\u3044\u4eba\u3044\u308b\u304b\u306a\uff1f\n\u76f4\u3067\u30e9\u30a4\u30f3\u4e0b\u3055\u3044\u3297\ufe0f\u2764\ufe0f\n\n\u2625\u2625\u2625\n\n\u2726\u88f8\n\u2708\u5f7c\u6c0f\u52df\u96c6\n#twitter\n#\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8"
+            ],
+            "group": [
+                1
+            ],
+            "name": "3fb5r36opd54y",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "FrenzyMont",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 564166095,
+            "followers_count": 344,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol"
+            ],
+            "text": [
+                "RT @GatosLetrados: \ud83d\ude38\ud83d\ude39\ud83d\ude39\n#lol https://t.co/ds2wSr428h"
+            ],
+            "group": [
+                1
+            ],
+            "name": "FrenzyMont",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "GatosLetrados",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 10.0
+            },
+            "score": 2,
+            "id": 1194138254360170496,
+            "followers_count": 4440,
+            "retweet_count": 16,
+            "hashtags": [
+                "lol",
+                "lol"
+            ],
+            "text": [
+                "\ud83d\ude38\ud83d\ude39\ud83d\ude39\n#lol https://t.co/ds2wSr428h",
+                "\ud83d\ude38\ud83d\ude39\ud83d\ude39\n#lol https://t.co/GclCvogQTM"
+            ],
+            "group": [
+                1
+            ],
+            "name": "GatosLetrados",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Aile2525",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1044363697,
+            "followers_count": 225,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "clash\u52df\u96c6",
+                "clash"
+            ],
+            "text": [
+                "\u53c2\u52a0\u8cde\u3060\u3051\u3082\u3089\u3044\u306b\u3044\u304d\u307e\u3057\u3087\u30fc\uff01\n\u30ec\u30fc\u30c8\u306f\u30b4\u30fc\u30eb\u30c9\u4ee5\u4e0b\u3067\u3059\u3002\n\u6c17\u8efd\u306b\u304a\u58f0\u639b\u3051\u4e0b\u3055\u3044\uff01\n\uff4a\uff47\n\n\u304c\u7a7a\u3044\u3066\u307e\u3059\uff01\n\n\u6b8b\u308a\uff11\u4eba\u3067\u3059\uff01!\n#lol #clash\u52df\u96c6 #clash"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Aile2525",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "julie4657",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1238541411177443328,
+            "followers_count": 5,
+            "retweet_count": 0,
+            "hashtags": [
+                "Nevada",
+                "sale",
+                "lol"
+            ],
+            "text": [
+                "Search on site Angelin05 #Nevada   #sale #lol https://t.co/vwDfnS213Z"
+            ],
+            "group": [
+                1
+            ],
+            "name": "julie4657",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "GiuTom",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 173401910,
+            "followers_count": 79,
+            "retweet_count": 0,
+            "hashtags": [
+                "Toto",
+                "RETWEEET",
+                "seguimi",
+                "twitter",
+                "Napoli"
+            ],
+            "text": [
+                "RT @totofanatici: #Toto' Miseria e Nobilt\u00e0 \"La Spesa\"Usa il #RETWEEET, #seguimi su #twitter facciamo conoscere a tutti il genio di #Napoli\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "GiuTom",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "totofanatici",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 1062797572744593409,
+            "followers_count": 5873,
+            "retweet_count": 64,
+            "hashtags": [
+                "Toto",
+                "RETWEEET",
+                "seguimi",
+                "twitter"
+            ],
+            "text": [
+                "#Toto' Miseria e Nobilt\u00e0 \"La Spesa\"Usa il #RETWEEET, #seguimi su #twitter facciamo conoscere a tutti il genio di\u2026 https://t.co/XO5P8jnuC2"
+            ],
+            "group": [
+                1
+            ],
+            "name": "totofanatici",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "PizzaDudeBot",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 536737982,
+            "followers_count": 18,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol"
+            ],
+            "text": [
+                "sudo add-apt-repository #lol"
+            ],
+            "group": [
+                1
+            ],
+            "name": "PizzaDudeBot",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ImChiino",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 367993808,
+            "followers_count": 891,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "- Yo abria jurao' que el #twitter estaba obsoleto"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ImChiino",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mbm_mav31",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 418286794,
+            "followers_count": 89,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol"
+            ],
+            "text": [
+                "RT @GatosLetrados: \ud83d\ude38\ud83d\ude39\ud83d\ude39\n#lol https://t.co/GclCvogQTM"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mbm_mav31",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "carloalberto52",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 425755121,
+            "followers_count": 488,
+            "retweet_count": 0,
+            "hashtags": [
+                "Toto",
+                "RETWEEET",
+                "seguimi",
+                "twitter",
+                "Napoli"
+            ],
+            "text": [
+                "RT @totofanatici: #Toto' Miseria e Nobilt\u00e0 \"La Spesa\"Usa il #RETWEEET, #seguimi su #twitter facciamo conoscere a tutti il genio di #Napoli\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "carloalberto52",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "UnrankedSmurfs",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 3305619281,
+            "followers_count": 6754,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "leagueoflegends"
+            ],
+            "text": [
+                "Wow thanks, Riot, this is worthless. \ud83d\ude0a \n#lol #leagueoflegends https://t.co/5eTZ13oTGY"
+            ],
+            "group": [
+                1
+            ],
+            "name": "UnrankedSmurfs",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ClanSnow1",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1209873897274916864,
+            "followers_count": 2,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "twitch",
+                "tiktok",
+                "chillbeats",
+                "youtube",
+                "instagram",
+                "fortnite",
+                "pc",
+                "oblivion"
+            ],
+            "text": [
+                "Espero que les gusta \u2764\n\nx.benji.y \n#twitter #twitch #tiktok #chillbeats #youtube #instagram #fortnite #pc #oblivion\u2026 https://t.co/nPBevVkHcy"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ClanSnow1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "MartinaFleischm",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 0
+            },
+            "score": 2,
+            "id": 753603847,
+            "followers_count": 88,
+            "retweet_count": 1,
+            "hashtags": [
+                "twitter",
+                "twitter"
+            ],
+            "text": [
+                "RT @MartinaFleischm: ENDZEIT 1.1.2019 SPRICHT DER HERR ZEBAOTH New Name\n\n COLLAGEN FREAK EMELY \ud83c\udded\ud83c\uddf3\nAbschluss auf@facebook #twitter #instagra\u2026",
+                "ENDZEIT 1.1.2019 SPRICHT DER HERR ZEBAOTH New Name\n\n COLLAGEN FREAK EMELY \ud83c\udded\ud83c\uddf3\nAbschluss auf@facebook #twitter\u2026 https://t.co/5cxlAck5iV"
+            ],
+            "group": [
+                1
+            ],
+            "name": "MartinaFleischm",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "idkcupid",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 0
+            },
+            "score": 2,
+            "id": 1029820167184896001,
+            "followers_count": 10,
+            "retweet_count": 3,
+            "hashtags": [
+                "iwantagf",
+                "girlfriend",
+                "lgbt",
+                "please",
+                "lol",
+                "single"
+            ],
+            "text": [
+                "#iwantagf #girlfriend #lgbt #please #lol #single",
+                "hello we are idkcupid!! we will be trying to set up as many stan twitter singles as we can! please fill out the for\u2026 https://t.co/KgObGRXGLv"
+            ],
+            "group": [
+                1
+            ],
+            "name": "idkcupid",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "TeeExTee",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 994352010068668416,
+            "followers_count": 1149,
+            "retweet_count": 0,
+            "hashtags": [
+                "thankyourianjohnson",
+                "twitter",
+                "StarWars"
+            ],
+            "text": [
+                "RT @sohappyred: #thankyourianjohnson is literally the dumbest as fuck trend I've ever witnessed on #twitter The last #StarWars movies were\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "TeeExTee",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "sohappyred",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 226463183,
+            "followers_count": 737,
+            "retweet_count": 1,
+            "hashtags": [
+                "thankyourianjohnson",
+                "twitter",
+                "StarWars"
+            ],
+            "text": [
+                "#thankyourianjohnson is literally the dumbest as fuck trend I've ever witnessed on #twitter The last #StarWars movi\u2026 https://t.co/Lwq11Oc3Tm"
+            ],
+            "group": [
+                1
+            ],
+            "name": "sohappyred",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "jojogrits27",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1066163477499252736,
+            "followers_count": 21,
+            "retweet_count": 0,
+            "hashtags": [
+                "trending",
+                "twitter",
+                "SaturdayMorning",
+                "Prediction"
+            ],
+            "text": [
+                "Meanwhile... #trending on #twitter  #SaturdayMorning #Prediction from 2008 https://t.co/7TaAvjDc0D"
+            ],
+            "group": [
+                1
+            ],
+            "name": "jojogrits27",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "9vazqsfbab9ly",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1229583222159237120,
+            "followers_count": 3,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8",
+                "\u30c4\u30a4\u30c3\u30bf\u30fc"
+            ],
+            "text": [
+                "\u4ef2\u826f\u3057\u3057\u3066\u30fc( \u2022\u0300\u1107\u2022 \u0301)\ufeed\u2727\u2764\u2764\n\n\u3049\u30ca\u52d5\u3068\u30f5\u9700\u8981\u3042\u308b\u7cfb\uff1f\n\n\u76f4\u3067\u30e9\u30a4\u30f3\u3057\u3066\u4e0b\u3055\u3044\u2763\ufe0f\u2b50\ufe0f\n\n\u2715\u2715\u2715\u2715\u2715\u2715\n\n\u2611\u96f0\u56f2\u6c17\u5acc\u3044\u3058\u3083\u306a\u3044\u3063\u3066\u4ebaRT\n\u2727\u304f\u3071\u3041\n#twitter\n#\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8\n#\u30c4\u30a4\u30c3\u30bf\u30fc"
+            ],
+            "group": [
+                1
+            ],
+            "name": "9vazqsfbab9ly",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Domus13791900",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1025679742274600960,
+            "followers_count": 816,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "Disinstallo un 'attimo #twitter mi va troppo male e lento! \ud83d\ude37"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Domus13791900",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "theeonlyariel",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 3378751239,
+            "followers_count": 103,
+            "retweet_count": 0,
+            "hashtags": [
+                "fyp",
+                "tiktok",
+                "funny",
+                "lol",
+                "comedy",
+                "dojacat",
+                "bossbitch",
+                "coronavirus",
+                "letsgoviral",
+                "dailymemes",
+                "trending"
+            ],
+            "text": [
+                "ummm #fyp #tiktok #funny #lol #comedy #dojacat #bossbitch #coronavirus #letsgoviral #dailymemes #trending\u2026 https://t.co/uZRx9hiwNe"
+            ],
+            "group": [
+                1
+            ],
+            "name": "theeonlyariel",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "elybars",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 791957164071890944,
+            "followers_count": 14,
+            "retweet_count": 0,
+            "hashtags": [
+                "givemethatplottwist",
+                "lol"
+            ],
+            "text": [
+                "out here giving 2020 a chance to redeem itself. #givemethatplottwist #lol"
+            ],
+            "group": [
+                1
+            ],
+            "name": "elybars",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mandybdaley",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 35031504,
+            "followers_count": 227,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "End of the world snacks + Netflix\n.\n.\n#twitter @ Vancouver, Washington https://t.co/NNUdff8kFI"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mandybdaley",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "cos9OO",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1042304697707765760,
+            "followers_count": 36,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "Fiddlesticks"
+            ],
+            "text": [
+                "RT @tomaroosky: So if Fiddles can steal voices, he could sound like anyone right? \n\n#lol #Fiddlesticks https://t.co/wKsokCKE0U"
+            ],
+            "group": [
+                1
+            ],
+            "name": "cos9OO",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "tomaroosky",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1305866174,
+            "followers_count": 1578,
+            "retweet_count": 138,
+            "hashtags": [
+                "lol",
+                "Fiddlesticks"
+            ],
+            "text": [
+                "So if Fiddles can steal voices, he could sound like anyone right? \n\n#lol #Fiddlesticks https://t.co/wKsokCKE0U"
+            ],
+            "group": [
+                1
+            ],
+            "name": "tomaroosky",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "10_2MOB",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1244480269,
+            "followers_count": 1401,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "Javascript",
+                "html5",
+                "SEO",
+                "CSS",
+                "PHP",
+                "AI"
+            ],
+            "text": [
+                "I love #twitter\n\n\"Developing the Best for the Next!\"\nLet Me design for U!\n#Javascript #html5 #SEO #CSS #PHP #AI\u2026 https://t.co/q9rzt2Chhf"
+            ],
+            "group": [
+                1
+            ],
+            "name": "10_2MOB",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "isheweila",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 54730863,
+            "followers_count": 158,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "Care for a book with your bathtime, darling?  https://t.co/h7oLjDSKGx #twitter https://t.co/TJBEIpglFz"
+            ],
+            "group": [
+                1
+            ],
+            "name": "isheweila",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "dany99914",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1111325286946230272,
+            "followers_count": 3,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "elegram",
+                "\u0447\u0430\u0442\u044b"
+            ],
+            "text": [
+                "RT @Seolinkss: \u0422\u043e\u043f\u043e\u0432\u044b\u0435 \u0447\u0430\u0442\u044b \u0438 \u043a\u0430\u043d\u0430\u043b\u044b \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u044b \nhttps://t.co/3IsqVAecQ3\n#twitter #elegram #\u0447\u0430\u0442\u044b https://t.co/pL3xDriDDZ"
+            ],
+            "group": [
+                1
+            ],
+            "name": "dany99914",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Seolinkss",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1216584598597111808,
+            "followers_count": 0,
+            "retweet_count": 1,
+            "hashtags": [
+                "twitter",
+                "elegram",
+                "\u0447\u0430\u0442\u044b"
+            ],
+            "text": [
+                "\u0422\u043e\u043f\u043e\u0432\u044b\u0435 \u0447\u0430\u0442\u044b \u0438 \u043a\u0430\u043d\u0430\u043b\u044b \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c \u0434\u043b\u044f \u0440\u0435\u043a\u043b\u0430\u043c\u044b \nhttps://t.co/3IsqVAecQ3\n#twitter #elegram #\u0447\u0430\u0442\u044b https://t.co/pL3xDriDDZ"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Seolinkss",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "thehiddenjobs",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 2340800197,
+            "followers_count": 302,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "Roku Express HD - https://t.co/k0rGGAmjsC https://t.co/SQTfibBmSf #twitter"
+            ],
+            "group": [
+                1
+            ],
+            "name": "thehiddenjobs",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "9inucv8cgwmpq",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1227643657475387392,
+            "followers_count": 4,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8"
+            ],
+            "text": [
+                "\u6687\u3060\u3041(^q^)\u2665\u2665\u2665\n\n\u260e\u901a\u8a71\u3068\u304b\n\u2640\ufe0f\u898b\u305b\u5408\u3044\u2728\n\n\u3067\u304d\u308b\u4eba\u308e\n\u5c45\u307e\u305b\u3093\u304b\uff1f\n\n\u76f4\u63a5\u30e9\u30a4\u30f3\u304f\u3060\u3055\u30fc\u3044\u3299\ufe0f\u2640\ufe0f\u2640\ufe0f\n\n\u2704\n\n\u270e\u898b\u305b\u3042\u3044\n\u2702\u30aa\u30ca\u52d5\n#twitter\n#\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8"
+            ],
+            "group": [
+                1
+            ],
+            "name": "9inucv8cgwmpq",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "LStevensAuthor",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 2842822803,
+            "followers_count": 1180,
+            "retweet_count": 0,
+            "hashtags": [
+                "romcom",
+                "funny",
+                "humor",
+                "lol",
+                "books",
+                "mustread",
+                "booklovers",
+                "bookworm"
+            ],
+            "text": [
+                "RT @ccannonauthor: One of my favorite lines from Blackmail Boyfriend. #romcom #funny #humor #lol #books #mustread #booklovers #bookworm @En\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "LStevensAuthor",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ccannonauthor",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 37421846,
+            "followers_count": 2333,
+            "retweet_count": 1,
+            "hashtags": [
+                "romcom",
+                "funny",
+                "humor",
+                "lol",
+                "books",
+                "mustread",
+                "booklovers"
+            ],
+            "text": [
+                "One of my favorite lines from Blackmail Boyfriend. #romcom #funny #humor #lol #books #mustread #booklovers\u2026 https://t.co/DpxkKMwmuD"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ccannonauthor",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "risaleinurarabi",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 980983372276293632,
+            "followers_count": 131,
+            "retweet_count": 0,
+            "hashtags": [
+                "\u0643\u0644\u0645\u0627\u062a",
+                "\u0627\u0644\u0643\u0644\u0645\u0627\u062a",
+                "\u0627\u0644\u0642\u0631\u0622\u0646",
+                "\u0627\u0644\u0642\u0631\u0622\u0646_\u0627\u0644\u0643\u0631\u064a\u0645",
+                "\u0642\u0631\u0627\u0646",
+                "\u0643\u062a\u0627\u0628",
+                "bediuzzaman",
+                "saidnursi",
+                "twitter",
+                "\u0628\u062f\u064a\u0639_\u0627\u0644\u0632\u0645\u0627\u0646",
+                "\u0633\u0639\u064a\u062f_\u0627\u0644\u0646\u0648\u0631\u0633\u064a"
+            ],
+            "text": [
+                "#\u0643\u0644\u0645\u0627\u062a #\u0627\u0644\u0643\u0644\u0645\u0627\u062a  #\u0627\u0644\u0642\u0631\u0622\u0646 #\u0627\u0644\u0642\u0631\u0622\u0646_\u0627\u0644\u0643\u0631\u064a\u0645 #\u0642\u0631\u0627\u0646 #\u0643\u062a\u0627\u0628 #bediuzzaman #saidnursi #twitter #\u0628\u062f\u064a\u0639_\u0627\u0644\u0632\u0645\u0627\u0646 #\u0633\u0639\u064a\u062f_\u0627\u0644\u0646\u0648\u0631\u0633\u064a\u2026 https://t.co/Mx9mHeoBzB"
+            ],
+            "group": [
+                1
+            ],
+            "name": "risaleinurarabi",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "2Real4Mos",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 2454002147,
+            "followers_count": 3141,
+            "retweet_count": 0,
+            "hashtags": [
+                "thepjs",
+                "twin",
+                "funnymemes",
+                "funny",
+                "jokes",
+                "laugh",
+                "funnypics",
+                "jokesonyou",
+                "dying",
+                "lol"
+            ],
+            "text": [
+                "#thepjs #twin #funnymemes #funny #jokes #laugh #funnypics #jokesonyou #dying #lol \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/LnWkYqi04e"
+            ],
+            "group": [
+                1
+            ],
+            "name": "2Real4Mos",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "DianaMSharpton",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 1143773466,
+            "followers_count": 22288,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "TechSupport",
+                "tech",
+                "tweets",
+                "help",
+                "retweet"
+            ],
+            "text": [
+                "RT @MichelleRoseG33: https://t.co/c8eclXOh6E #twitter #TechSupport #tech #tweets #help #retweet https://t.co/lNl5V8Z46s"
+            ],
+            "group": [
+                1
+            ],
+            "name": "DianaMSharpton",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "MichelleRoseG33",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 10.0
+            },
+            "score": 1,
+            "id": 2295076015,
+            "followers_count": 7528,
+            "retweet_count": 16,
+            "hashtags": [
+                "twitter",
+                "TechSupport",
+                "tech",
+                "tweets",
+                "help",
+                "retweet"
+            ],
+            "text": [
+                "https://t.co/c8eclXOh6E #twitter #TechSupport #tech #tweets #help #retweet https://t.co/lNl5V8Z46s"
+            ],
+            "group": [
+                1
+            ],
+            "name": "MichelleRoseG33",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "ElTwiteroRandom",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 1236315923524603904,
+            "followers_count": 11,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "tweet",
+                "retweet",
+                "follow",
+                "like"
+            ],
+            "text": [
+                "Bebe,juntos hasta la muerte unidos por este amor toxico\n#twitter #tweet #retweet #follow #like https://t.co/CnY389RdpI"
+            ],
+            "group": [
+                1
+            ],
+            "name": "ElTwiteroRandom",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "gozerscloset",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 7.5
+            },
+            "score": 1,
+            "id": 3501822492,
+            "followers_count": 3557,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "TechSupport",
+                "tech",
+                "tweets",
+                "help",
+                "retweet"
+            ],
+            "text": [
+                "RT @MichelleRoseG33: https://t.co/c8eclXOh6E #twitter #TechSupport #tech #tweets #help #retweet https://t.co/lNl5V8Z46s"
+            ],
+            "group": [
+                1
+            ],
+            "name": "gozerscloset",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "DeeJayConnect",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 369318170,
+            "followers_count": 216,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "toiletpaper"
+            ],
+            "text": [
+                "Not even to clean my #&amp;@!!\ud83d\ude02 \ud83d\ude02 \ud83e\udd23\ud83e\udd23 #lol #toiletpaper @ Orlando, Florida https://t.co/bvbCCST7lN"
+            ],
+            "group": [
+                1
+            ],
+            "name": "DeeJayConnect",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "kreeshee",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 2.0
+            },
+            "score": 1,
+            "id": 1144252094129541120,
+            "followers_count": 14,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter",
+                "suspended"
+            ],
+            "text": [
+                "My main @Twitter account has been suspended for like a year now.. how longs this suspension for \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d #twitter #suspended"
+            ],
+            "group": [
+                1
+            ],
+            "name": "kreeshee",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Twitter",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 2.0
+            },
+            "score": 0,
+            "id": 783214,
+            "followers_count": 0,
+            "retweet_count": 0,
+            "hashtags": [],
+            "text": [
+                ""
+            ],
+            "group": [
+                1
+            ],
+            "name": "Twitter",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "qbvillin",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 87565102,
+            "followers_count": 1093,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "laughter",
+                "ToiletPaperPanic",
+                "toiletpapercrisis",
+                "ToiletPaperApocalypse"
+            ],
+            "text": [
+                "#lol #laughter #ToiletPaperPanic #toiletpapercrisis #ToiletPaperApocalypse"
+            ],
+            "group": [
+                1
+            ],
+            "name": "qbvillin",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "mitsui_atsushi1",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1212433144411910144,
+            "followers_count": 232,
+            "retweet_count": 0,
+            "hashtags": [
+                "\u30aa\u30fc\u30c7\u30a3\u30aa\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9",
+                "twitter",
+                "\u30e9\u30a4\u30d6"
+            ],
+            "text": [
+                "RT @shimizuhiromasa: \u306a\u306b\u304b\u3067\u304d\u306a\u3044\u304b\u306a\u30fc\u3068\u601d\u3063\u3066\u3000#\u30aa\u30fc\u30c7\u30a3\u30aa\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9 \u3092\u4f7f\u3063\u3066 #twitter #\u30e9\u30a4\u30d6\u3000\u3092\u3084\u308d\u3046\u3068\u3057\u3066\u308b\u3093\u3060\u3051\u3069\u3046\u307e\u304f\u3044\u304d\u307e\u305b\u3093\ud83d\ude28\n\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\u306e\u97f3\u306f\u3001\u3053\u308c\u306b\u306f\u51fa\u529b\u3055\u308c\u306a\u3044\u306e\u304b\u306a\uff1f\ud83e\udd14\u3000\u7591\u554f\u3067\u3059\ud83d\ude14"
+            ],
+            "group": [
+                1
+            ],
+            "name": "mitsui_atsushi1",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "shimizuhiromasa",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1127372280621719552,
+            "followers_count": 415,
+            "retweet_count": 1,
+            "hashtags": [
+                "\u30aa\u30fc\u30c7\u30a3\u30aa\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9",
+                "twitter",
+                "\u30e9\u30a4\u30d6"
+            ],
+            "text": [
+                "\u306a\u306b\u304b\u3067\u304d\u306a\u3044\u304b\u306a\u30fc\u3068\u601d\u3063\u3066\u3000#\u30aa\u30fc\u30c7\u30a3\u30aa\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9 \u3092\u4f7f\u3063\u3066 #twitter #\u30e9\u30a4\u30d6\u3000\u3092\u3084\u308d\u3046\u3068\u3057\u3066\u308b\u3093\u3060\u3051\u3069\u3046\u307e\u304f\u3044\u304d\u307e\u305b\u3093\ud83d\ude28\n\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\u306e\u97f3\u306f\u3001\u3053\u308c\u306b\u306f\u51fa\u529b\u3055\u308c\u306a\u3044\u306e\u304b\u306a\uff1f\ud83e\udd14\u3000\u7591\u554f\u3067\u3059\ud83d\ude14"
+            ],
+            "group": [
+                1
+            ],
+            "name": "shimizuhiromasa",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "murda14k",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 296341789,
+            "followers_count": 779,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol",
+                "lmao",
+                "hilarious",
+                "comedy",
+                "funnymemes"
+            ],
+            "text": [
+                "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02... intricate with the hassam... fuck that toilet paper bihh.   #lol #lmao #hilarious #comedy #funnymemes\u2026 https://t.co/eapI6LxJa5"
+            ],
+            "group": [
+                1
+            ],
+            "name": "murda14k",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "lordunderskrrt",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 298314138,
+            "followers_count": 424,
+            "retweet_count": 0,
+            "hashtags": [
+                "twitter"
+            ],
+            "text": [
+                "does anyone else on #twitter get really bad tinnitus? i\u2019ve been going stir crazy and no one understands"
+            ],
+            "group": [
+                1
+            ],
+            "name": "lordunderskrrt",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "DrChung_tw",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 123263093,
+            "followers_count": 8,
+            "retweet_count": 0,
+            "hashtags": [
+                "\u6211\u7684Twitter\u9031\u5e74\u7d00\u5ff5\u65e5",
+                "twitter",
+                "Anniversary"
+            ],
+            "text": [
+                "\u8a18\u5f97\u4f60\u662f\u4f55\u6642\u52a0\u5165 Twitter \u7684\u55ce\uff1f\u6211\u8a18\u5f97\uff01#\u6211\u7684Twitter\u9031\u5e74\u7d00\u5ff5\u65e5 #twitter #Anniversary But I started twittering with the other account even\u2026 https://t.co/sVe5s8Wj1J"
+            ],
+            "group": [
+                1
+            ],
+            "name": "DrChung_tw",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "tortiitart",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1069668414040485891,
+            "followers_count": 153,
+            "retweet_count": 0,
+            "hashtags": [
+                "LeagueOfLegends",
+                "League_of_Legends",
+                "lol",
+                "xayah",
+                "rakan",
+                "fanart",
+                "digitalart"
+            ],
+            "text": [
+                "RT @foxisdrawing: star guardian xayah and rakan~!\n\n#LeagueOfLegends #League_of_Legends #lol #xayah #rakan #fanart #digitalart #digitalillus\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "tortiitart",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "foxisdrawing",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1159530456100028423,
+            "followers_count": 4,
+            "retweet_count": 3,
+            "hashtags": [
+                "LeagueOfLegends",
+                "League_of_Legends",
+                "lol",
+                "xayah",
+                "rakan",
+                "fanart",
+                "digitalart"
+            ],
+            "text": [
+                "star guardian xayah and rakan~!\n\n#LeagueOfLegends #League_of_Legends #lol #xayah #rakan #fanart #digitalart\u2026 https://t.co/eisyAXRbFn"
+            ],
+            "group": [
+                1
+            ],
+            "name": "foxisdrawing",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "EsportRw",
+                "betweenness": "N/A",
+                "degree": 0.02857142857142857,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 999571857241063424,
+            "followers_count": 4477,
+            "retweet_count": 0,
+            "hashtags": [
+                "RogueWarriors",
+                "lpl",
+                "lol"
+            ],
+            "text": [
+                "3/15 14:00\uff08CST\uff09\nRW \ud83c\udd9a iG\nStarting lineup: Holder, WeiYan, Ruby, ZWuJi, Ley\n #RogueWarriors #lpl #lol https://t.co/ZPIxfTiB5d"
+            ],
+            "group": [
+                1
+            ],
+            "name": "EsportRw",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "Every1KnowsNoah",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 854105784661270529,
+            "followers_count": 11,
+            "retweet_count": 0,
+            "hashtags": [
+                "meme",
+                "memes",
+                "funny",
+                "dankmemes",
+                "memesdaily",
+                "funnymemes",
+                "lol",
+                "dank",
+                "humor",
+                "like",
+                "follow",
+                "lmao"
+            ],
+            "text": [
+                "RT @BoomerUnknown: Leave his fish alone \n#meme #memes #funny #dankmemes #memesdaily #funnymemes #lol #dank #humor #like #follow #lmao #dank\u2026"
+            ],
+            "group": [
+                1
+            ],
+            "name": "Every1KnowsNoah",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "BoomerUnknown",
+                "betweenness": "N/A",
+                "degree": 0.014285714285714285,
+                "harmonic": 5.0
+            },
+            "score": 1,
+            "id": 1211809638586277888,
+            "followers_count": 33,
+            "retweet_count": 1,
+            "hashtags": [
+                "meme",
+                "memes",
+                "funny",
+                "dankmemes",
+                "memesdaily",
+                "funnymemes",
+                "lol",
+                "dank",
+                "humor",
+                "like",
+                "follow",
+                "lmao"
+            ],
+            "text": [
+                "Leave his fish alone \n#meme #memes #funny #dankmemes #memesdaily #funnymemes #lol #dank #humor #like #follow #lmao\u2026 https://t.co/VnzvOJmQ9Z"
+            ],
+            "group": [
+                1
+            ],
+            "name": "BoomerUnknown",
+            "hgroup": []
+        },
+        {
+            "graph_score": {
+                "handle": "plivecalmest",
+                "betweenness": "N/A",
+                "degree": 0.0,
+                "harmonic": 0
+            },
+            "score": 1,
+            "id": 840496870875045889,
+            "followers_count": 16,
+            "retweet_count": 0,
+            "hashtags": [
+                "lol"
+            ],
+            "text": [
+                "\ud83d\udc27 Share This: #lol The influence of rapeculture perhaps is indicative of how many times the tax payer can be betray\u2026 https://t.co/tVJsJdeXou"
+            ],
+            "group": [
+                1
+            ],
+            "name": "plivecalmest",
+            "hgroup": []
+        }
+    ],
+    "links": [
+        {
+            "source": 1108499101,
+            "target": 851124076714221568,
+            "value": 0.1
+        },
+        {
+            "source": 1108499101,
+            "target": 366987179,
+            "value": 0.5
+        },
+        {
+            "source": 1108499101,
+            "target": 282006208,
+            "value": 0.5
+        },
+        {
+            "source": 1108499101,
+            "target": 175261567,
+            "value": 0.5
+        },
+        {
+            "source": 1207311108874178560,
+            "target": 3011370757,
+            "value": 0.1
+        },
+        {
+            "source": 1207311108874178560,
+            "target": 1369761469,
+            "value": 0.5
+        },
+        {
+            "source": 949085626011455489,
+            "target": 734568536329310208,
+            "value": 0.2
+        },
+        {
+            "source": 1150811214899027968,
+            "target": 272632713,
+            "value": 0.2
+        },
+        {
+            "source": 564166095,
+            "target": 1194138254360170496,
+            "value": 0.2
+        },
+        {
+            "source": 173401910,
+            "target": 1062797572744593409,
+            "value": 0.2
+        },
+        {
+            "source": 418286794,
+            "target": 1194138254360170496,
+            "value": 0.2
+        },
+        {
+            "source": 425755121,
+            "target": 1062797572744593409,
+            "value": 0.2
+        },
+        {
+            "source": 753603847,
+            "target": 753603847,
+            "value": 0.2
+        },
+        {
+            "source": 1029820167184896001,
+            "target": 1029820167184896001,
+            "value": 0.06666666666666667
+        },
+        {
+            "source": 994352010068668416,
+            "target": 226463183,
+            "value": 0.2
+        },
+        {
+            "source": 1042304697707765760,
+            "target": 1305866174,
+            "value": 0.2
+        },
+        {
+            "source": 1111325286946230272,
+            "target": 1216584598597111808,
+            "value": 0.2
+        },
+        {
+            "source": 2842822803,
+            "target": 37421846,
+            "value": 0.2
+        },
+        {
+            "source": 1143773466,
+            "target": 2295076015,
+            "value": 0.2
+        },
+        {
+            "source": 3501822492,
+            "target": 2295076015,
+            "value": 0.2
+        },
+        {
+            "source": 1144252094129541120,
+            "target": 783214,
+            "value": 0.5
+        },
+        {
+            "source": 87565102,
+            "target": 87565102,
+            "value": 0.1
+        },
+        {
+            "source": 1212433144411910144,
+            "target": 1127372280621719552,
+            "value": 0.2
+        },
+        {
+            "source": 1069668414040485891,
+            "target": 1159530456100028423,
+            "value": 0.2
+        },
+        {
+            "source": 999571857241063424,
+            "target": 999571857241063424,
+            "value": 0.1
+        },
+        {
+            "source": 854105784661270529,
+            "target": 1211809638586277888,
+            "value": 0.2
+        }
+    ],
+    "terms": [
+        {
+            "h": "twitter",
+            "score": 39
+        },
+        {
+            "h": "lol",
+            "score": 31
+        },
+        {
+            "h": "funny",
+            "score": 8
+        },
+        {
+            "h": "humor",
+            "score": 6
+        },
+        {
+            "h": "retweet",
+            "score": 5
+        },
+        {
+            "h": "\u306f\u3058\u3081\u3066\u306e\u30c4\u30a4\u30fc\u30c8",
+            "score": 4
+        },
+        {
+            "h": "Toto",
+            "score": 4
+        },
+        {
+            "h": "RETWEEET",
+            "score": 4
+        },
+        {
+            "h": "seguimi",
+            "score": 4
+        },
+        {
+            "h": "funnymemes",
+            "score": 4
+        },
+        {
+            "h": "TechSupport",
+            "score": 4
+        },
+        {
+            "h": "tech",
+            "score": 4
+        },
+        {
+            "h": "tweets",
+            "score": 4
+        },
+        {
+            "h": "help",
+            "score": 4
+        },
+        {
+            "h": "laughter",
+            "score": 3
+        },
+        {
+            "h": "laugh",
+            "score": 3
+        },
+        {
+            "h": "follow",
+            "score": 3
+        },
+        {
+            "h": "like",
+            "score": 3
+        },
+        {
+            "h": "lmao",
+            "score": 3
+        },
+        {
+            "h": "FunnyPhoto",
+            "score": 2
+        },
+        {
+            "h": "Cute",
+            "score": 2
+        },
+        {
+            "h": "Cuteness",
+            "score": 2
+        },
+        {
+            "h": "FunniestTweets",
+            "score": 2
+        },
+        {
+            "h": "happy",
+            "score": 2
+        },
+        {
+            "h": "haha",
+            "score": 2
+        },
+        {
+            "h": "londonislovinit",
+            "score": 2
+        },
+        {
+            "h": "SkySport",
+            "score": 2
+        },
+        {
+            "h": "Napoli",
+            "score": 2
+        },
+        {
+            "h": "tiktok",
+            "score": 2
+        },
+        {
+            "h": "thankyourianjohnson",
+            "score": 2
+        },
+        {
+            "h": "StarWars",
+            "score": 2
+        },
+        {
+            "h": "trending",
+            "score": 2
+        },
+        {
+            "h": "comedy",
+            "score": 2
+        },
+        {
+            "h": "Fiddlesticks",
+            "score": 2
+        },
+        {
+            "h": "elegram",
+            "score": 2
+        },
+        {
+            "h": "\u0447\u0430\u0442\u044b",
+            "score": 2
+        },
+        {
+            "h": "romcom",
+            "score": 2
+        },
+        {
+            "h": "books",
+            "score": 2
+        },
+        {
+            "h": "mustread",
+            "score": 2
+        },
+        {
+            "h": "booklovers",
+            "score": 2
+        },
+        {
+            "h": "\u30aa\u30fc\u30c7\u30a3\u30aa\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9",
+            "score": 2
+        },
+        {
+            "h": "\u30e9\u30a4\u30d6",
+            "score": 2
+        },
+        {
+            "h": "LeagueOfLegends",
+            "score": 2
+        },
+        {
+            "h": "League_of_Legends",
+            "score": 2
+        },
+        {
+            "h": "xayah",
+            "score": 2
+        },
+        {
+            "h": "rakan",
+            "score": 2
+        },
+        {
+            "h": "fanart",
+            "score": 2
+        },
+        {
+            "h": "digitalart",
+            "score": 2
+        },
+        {
+            "h": "meme",
+            "score": 2
+        },
+        {
+            "h": "memes",
+            "score": 2
+        },
+        {
+            "h": "dankmemes",
+            "score": 2
+        },
+        {
+            "h": "memesdaily",
+            "score": 2
+        },
+        {
+            "h": "dank",
+            "score": 2
+        },
+        {
+            "h": "edtech",
+            "score": 1
+        },
+        {
+            "h": "AppleEdu",
+            "score": 1
+        },
+        {
+            "h": "excited",
+            "score": 1
+        },
+        {
+            "h": "lol\u521d\u5fc3\u8005",
+            "score": 1
+        },
+        {
+            "h": "\u5b89\u500d\u3084\u3081\u308d",
+            "score": 1
+        },
+        {
+            "h": "clash\u52df\u96c6",
+            "score": 1
+        },
+        {
+            "h": "clash",
+            "score": 1
+        },
+        {
+            "h": "Nevada",
+            "score": 1
+        },
+        {
+            "h": "sale",
+            "score": 1
+        },
+        {
+            "h": "leagueoflegends",
+            "score": 1
+        },
+        {
+            "h": "twitch",
+            "score": 1
+        },
+        {
+            "h": "chillbeats",
+            "score": 1
+        },
+        {
+            "h": "youtube",
+            "score": 1
+        },
+        {
+            "h": "instagram",
+            "score": 1
+        },
+        {
+            "h": "fortnite",
+            "score": 1
+        },
+        {
+            "h": "pc",
+            "score": 1
+        },
+        {
+            "h": "oblivion",
+            "score": 1
+        },
+        {
+            "h": "iwantagf",
+            "score": 1
+        },
+        {
+            "h": "girlfriend",
+            "score": 1
+        },
+        {
+            "h": "lgbt",
+            "score": 1
+        },
+        {
+            "h": "please",
+            "score": 1
+        },
+        {
+            "h": "single",
+            "score": 1
+        },
+        {
+            "h": "SaturdayMorning",
+            "score": 1
+        },
+        {
+            "h": "Prediction",
+            "score": 1
+        },
+        {
+            "h": "\u30c4\u30a4\u30c3\u30bf\u30fc",
+            "score": 1
+        },
+        {
+            "h": "fyp",
+            "score": 1
+        },
+        {
+            "h": "dojacat",
+            "score": 1
+        },
+        {
+            "h": "bossbitch",
+            "score": 1
+        },
+        {
+            "h": "coronavirus",
+            "score": 1
+        },
+        {
+            "h": "letsgoviral",
+            "score": 1
+        },
+        {
+            "h": "dailymemes",
+            "score": 1
+        },
+        {
+            "h": "givemethatplottwist",
+            "score": 1
+        },
+        {
+            "h": "Javascript",
+            "score": 1
+        },
+        {
+            "h": "html5",
+            "score": 1
+        },
+        {
+            "h": "SEO",
+            "score": 1
+        },
+        {
+            "h": "CSS",
+            "score": 1
+        },
+        {
+            "h": "PHP",
+            "score": 1
+        },
+        {
+            "h": "AI",
+            "score": 1
+        },
+        {
+            "h": "bookworm",
+            "score": 1
+        },
+        {
+            "h": "\u0643\u0644\u0645\u0627\u062a",
+            "score": 1
+        },
+        {
+            "h": "\u0627\u0644\u0643\u0644\u0645\u0627\u062a",
+            "score": 1
+        },
+        {
+            "h": "\u0627\u0644\u0642\u0631\u0622\u0646",
+            "score": 1
+        },
+        {
+            "h": "\u0627\u0644\u0642\u0631\u0622\u0646_\u0627\u0644\u0643\u0631\u064a\u0645",
+            "score": 1
+        },
+        {
+            "h": "\u0642\u0631\u0627\u0646",
+            "score": 1
+        },
+        {
+            "h": "\u0643\u062a\u0627\u0628",
+            "score": 1
+        },
+        {
+            "h": "bediuzzaman",
+            "score": 1
+        },
+        {
+            "h": "saidnursi",
+            "score": 1
+        },
+        {
+            "h": "\u0628\u062f\u064a\u0639_\u0627\u0644\u0632\u0645\u0627\u0646",
+            "score": 1
+        },
+        {
+            "h": "\u0633\u0639\u064a\u062f_\u0627\u0644\u0646\u0648\u0631\u0633\u064a",
+            "score": 1
+        },
+        {
+            "h": "thepjs",
+            "score": 1
+        },
+        {
+            "h": "twin",
+            "score": 1
+        },
+        {
+            "h": "jokes",
+            "score": 1
+        },
+        {
+            "h": "funnypics",
+            "score": 1
+        },
+        {
+            "h": "jokesonyou",
+            "score": 1
+        },
+        {
+            "h": "dying",
+            "score": 1
+        },
+        {
+            "h": "tweet",
+            "score": 1
+        },
+        {
+            "h": "toiletpaper",
+            "score": 1
+        },
+        {
+            "h": "suspended",
+            "score": 1
+        },
+        {
+            "h": "ToiletPaperPanic",
+            "score": 1
+        },
+        {
+            "h": "toiletpapercrisis",
+            "score": 1
+        },
+        {
+            "h": "ToiletPaperApocalypse",
+            "score": 1
+        },
+        {
+            "h": "hilarious",
+            "score": 1
+        },
+        {
+            "h": "\u6211\u7684Twitter\u9031\u5e74\u7d00\u5ff5\u65e5",
+            "score": 1
+        },
+        {
+            "h": "Anniversary",
+            "score": 1
+        },
+        {
+            "h": "RogueWarriors",
+            "score": 1
+        },
+        {
+            "h": "lpl",
+            "score": 1
+        }
+    ]
+}
